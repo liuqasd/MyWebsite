@@ -1,0 +1,734 @@
+# This file is distributed under the GNU General Public License v2 or later
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: pridmag.1.0.7\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/tags/_s\n"
+"POT-Creation-Date: 2018-10-29 15:01+0530\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-MO-DA HO:MI+ZONE\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__;esc_html_e;esc_attr__;esc_attr_e;_n;"
+"_x;_nx\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:18
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:22
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: comments.php:35
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#: comments.php:41
+#, php-format
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgstr ""
+
+#: comments.php:67
+msgid "Comments are closed."
+msgstr ""
+
+#: footer.php:50
+#, php-format
+msgid "Copyright &#169; %1$s %2$s."
+msgstr ""
+
+#: footer.php:57
+#, php-format
+msgid "Powered by %1$s and %2$s."
+msgstr ""
+
+#: functions.php:50
+msgid "Primary"
+msgstr ""
+
+#: functions.php:114
+msgid "Main Sidebar"
+msgstr ""
+
+#: functions.php:116 functions.php:179 functions.php:188 functions.php:197
+msgid "Add widgets here."
+msgstr ""
+
+#: functions.php:123
+msgid "Featured Content Area"
+msgstr ""
+
+#: functions.php:125
+msgid "Add TH:Featured Content Widget here."
+msgstr ""
+
+#: functions.php:132
+msgid "Magazine Top Content"
+msgstr ""
+
+#: functions.php:134 functions.php:143 functions.php:152 functions.php:161
+msgid "Add magazine widgets here."
+msgstr ""
+
+#: functions.php:141
+msgid "Magazine Mid Left Content"
+msgstr ""
+
+#: functions.php:150
+msgid "Magazine Mid Right Content"
+msgstr ""
+
+#: functions.php:159
+msgid "Magazine Bottom Content"
+msgstr ""
+
+#: functions.php:168
+msgid "Header Sidebar"
+msgstr ""
+
+#: functions.php:170
+msgid "You can display ads here."
+msgstr ""
+
+#: functions.php:177
+msgid "Footer Left Sidebar"
+msgstr ""
+
+#: functions.php:186
+msgid "Footer Mid Sidebar"
+msgstr ""
+
+#: functions.php:195
+msgid "Footer Right Sidebar"
+msgstr ""
+
+#: functions.php:216
+msgid "on"
+msgstr ""
+
+#: header.php:25
+msgid "Skip to content"
+msgstr ""
+
+#: inc/class-meta-boxes.php:38
+msgid "Select Layout"
+msgstr ""
+
+#: inc/class-meta-boxes.php:118
+msgid "Default Layout"
+msgstr ""
+
+#: inc/class-meta-boxes.php:121
+msgid "Right Sidebar"
+msgstr ""
+
+#: inc/class-meta-boxes.php:124
+msgid "Left Sidebar"
+msgstr ""
+
+#: inc/class-meta-boxes.php:127
+msgid "Full Width"
+msgstr ""
+
+#: inc/class-meta-boxes.php:130
+msgid "Full Width Content Centered."
+msgstr ""
+
+#: inc/customizer/custom-controls/class-upsell-customize.php:76
+msgid "Ready for more?"
+msgstr ""
+
+#: inc/customizer/custom-controls/class-upsell-customize.php:77
+msgid "Get PridMag Pro"
+msgstr ""
+
+#: inc/customizer/customizer.php:41
+msgid "Header Options"
+msgstr ""
+
+#: inc/customizer/customizer.php:42
+msgid "Configure header settings for the PridMag Theme"
+msgstr ""
+
+#: inc/customizer/customizer.php:52
+msgid "Layout Options"
+msgstr ""
+
+#: inc/customizer/customizer.php:53
+msgid "Configure layout settings for the PridMag Theme"
+msgstr ""
+
+#: inc/customizer/customizer.php:63
+msgid "Archives / Blog Options"
+msgstr ""
+
+#: inc/customizer/customizer.php:64
+msgid "You can change your blog / archives settings here."
+msgstr ""
+
+#: inc/customizer/customizer.php:74
+msgid "Post Details"
+msgstr ""
+
+#: inc/customizer/customizer.php:75
+msgid "Select what post details to be displayed on blog and archives."
+msgstr ""
+
+#: inc/customizer/customizer.php:83
+msgid "Excerpt Length"
+msgstr ""
+
+#: inc/customizer/customizer.php:91
+msgid "Read More Button"
+msgstr ""
+
+#: inc/customizer/customizer.php:99
+msgid "Post Options"
+msgstr ""
+
+#: inc/customizer/customizer.php:100
+msgid "You can change your single post settings here."
+msgstr ""
+
+#: inc/customizer/customizer.php:108
+msgid "Footer Options"
+msgstr ""
+
+#: inc/customizer/customizer.php:116
+msgid "Site Main Layout"
+msgstr ""
+
+#: inc/customizer/customizer.php:124 inc/customizer/customizer.php:286
+msgid "Archives / Blog Layout"
+msgstr ""
+
+#: inc/customizer/customizer.php:132 inc/customizer/customizer.php:346
+msgid "Single Post Layout"
+msgstr ""
+
+#: inc/customizer/customizer.php:140 inc/customizer/customizer.php:379
+msgid "Page Layout"
+msgstr ""
+
+#: inc/customizer/customizer.php:148
+msgid "Header Image Options"
+msgstr ""
+
+#: inc/customizer/customizer.php:155
+msgid "Search Box"
+msgstr ""
+
+#: inc/customizer/customizer.php:162
+msgid "Theme Information"
+msgstr ""
+
+#: inc/customizer/customizer.php:188
+msgid "Header Image Location."
+msgstr ""
+
+#: inc/customizer/customizer.php:190
+msgid "Before Header"
+msgstr ""
+
+#: inc/customizer/customizer.php:191
+msgid "After Header"
+msgstr ""
+
+#: inc/customizer/customizer.php:213
+msgid "Link header image to home page."
+msgstr ""
+
+#: inc/customizer/customizer.php:234
+msgid "Show search icon on menu."
+msgstr ""
+
+#: inc/customizer/customizer.php:257
+msgid "Select the main layout for the site."
+msgstr ""
+
+#: inc/customizer/customizer.php:259
+msgid "Boxed Layout"
+msgstr ""
+
+#: inc/customizer/customizer.php:260
+msgid "Wide Layout"
+msgstr ""
+
+#: inc/customizer/customizer.php:287
+msgid "Select content and sidebar alignment for blog posts listing pages."
+msgstr ""
+
+#: inc/customizer/customizer.php:315
+msgid "Posts Listing Layout"
+msgstr ""
+
+#: inc/customizer/customizer.php:317
+msgid "List posts"
+msgstr ""
+
+#: inc/customizer/customizer.php:318
+msgid "2 Columns Grid"
+msgstr ""
+
+#: inc/customizer/customizer.php:319
+msgid "3 Columns Grid"
+msgstr ""
+
+#: inc/customizer/customizer.php:320
+msgid "Large posts"
+msgstr ""
+
+#: inc/customizer/customizer.php:347
+msgid "Select content and sidebar alignment for posts."
+msgstr ""
+
+#: inc/customizer/customizer.php:380
+msgid "Select content and sidebar alignment for pages."
+msgstr ""
+
+#: inc/customizer/customizer.php:412 inc/customizer/customizer.php:591
+msgid "Display post category list."
+msgstr ""
+
+#: inc/customizer/customizer.php:433 inc/customizer/customizer.php:612
+msgid "Display post date."
+msgstr ""
+
+#: inc/customizer/customizer.php:454 inc/customizer/customizer.php:633
+msgid "Display post author."
+msgstr ""
+
+#: inc/customizer/customizer.php:475 inc/customizer/customizer.php:654
+msgid "Display number of comments."
+msgstr ""
+
+#: inc/customizer/customizer.php:496
+msgid "Content display method."
+msgstr ""
+
+#: inc/customizer/customizer.php:497
+msgid "How content should display in blog posts listing pages? Default: Excerpt"
+msgstr ""
+
+#: inc/customizer/customizer.php:499
+msgid "Excerpt"
+msgstr ""
+
+#: inc/customizer/customizer.php:500
+msgid "Full Content"
+msgstr ""
+
+#: inc/customizer/customizer.php:501
+msgid "Do not display"
+msgstr ""
+
+#: inc/customizer/customizer.php:523
+msgid "Excerpt length"
+msgstr ""
+
+#: inc/customizer/customizer.php:524
+msgid "How many words do you want to display in excerpt? Default: 25"
+msgstr ""
+
+#: inc/customizer/customizer.php:545
+msgid "Display read more button."
+msgstr ""
+
+#: inc/customizer/customizer.php:553
+msgid "Read More"
+msgstr ""
+
+#: inc/customizer/customizer.php:566
+msgid "Read More Button Text"
+msgstr ""
+
+#: inc/customizer/customizer.php:675
+msgid "Display featured image."
+msgstr ""
+
+#: inc/customizer/customizer.php:696
+msgid "Display tags list."
+msgstr ""
+
+#: inc/customizer/customizer.php:717
+msgid "Footer Copyright Text"
+msgstr ""
+
+#: inc/customizer/customizer.php:739
+msgid "Theme Primary Color"
+msgstr ""
+
+#: inc/customizer/customizer.php:757
+msgid "Theme documentation"
+msgstr ""
+
+#: inc/customizer/customizer.php:758
+msgid ""
+"<a href=\"https://themezhut.com/pridmag-wordpress-theme-documentation/\" "
+"target=\"_blank\">Read the documentation.</a>"
+msgstr ""
+
+#: inc/customizer/customizer.php:776
+msgid "Theme demo"
+msgstr ""
+
+#: inc/customizer/customizer.php:777
+msgid ""
+"<a href=\"https://themezhut.com/demo/pridmag/\" target=\"_blank\">View Demo.</"
+"a>"
+msgstr ""
+
+#: inc/dashboard/theme-info.php:18
+msgid ""
+"Welcome to PridMag! To get started with PridMag please visit the theme "
+"Welcome page."
+msgstr ""
+
+#: inc/dashboard/theme-info.php:19
+msgid "Get Started with PridMag"
+msgstr ""
+
+#: inc/dashboard/theme-info.php:37 inc/dashboard/theme-info.php:39
+msgid "PridMag Theme"
+msgstr ""
+
+#: inc/dashboard/theme-info.php:50
+msgid "Welcome to PridMag"
+msgstr ""
+
+#: inc/dashboard/theme-info.php:56
+msgid "PridMag"
+msgstr ""
+
+#: inc/dashboard/theme-info.php:59
+msgid "Magazine Homepage"
+msgstr ""
+
+#: inc/dashboard/theme-info.php:85
+msgid "Theme Documentation"
+msgstr ""
+
+#: inc/dashboard/theme-info.php:86
+msgid ""
+"Need to learn all about PridMag? Or do you want to make your site look like "
+"the demo? If so please read the theme documentation carefully."
+msgstr ""
+
+#: inc/dashboard/theme-info.php:87
+msgid "Read the documentation."
+msgstr ""
+
+#: inc/dashboard/theme-info.php:92
+msgid "Theme Customizer"
+msgstr ""
+
+#: inc/dashboard/theme-info.php:93
+msgid ""
+"All the PridMag theme settings are located at the customizer. Start "
+"customizing your website with customizer."
+msgstr ""
+
+#: inc/dashboard/theme-info.php:94
+msgid "Go to customizer"
+msgstr ""
+
+#: inc/dashboard/theme-info.php:99
+msgid "Theme Info"
+msgstr ""
+
+#: inc/dashboard/theme-info.php:100
+msgid "Know all the details about PridMag theme."
+msgstr ""
+
+#: inc/dashboard/theme-info.php:101
+msgid "Theme Details."
+msgstr ""
+
+#: inc/dashboard/theme-info.php:106
+msgid "Theme Demo"
+msgstr ""
+
+#: inc/dashboard/theme-info.php:107
+msgid "See the theme preview of free version."
+msgstr ""
+
+#: inc/dashboard/theme-info.php:108
+msgid "Theme Preview"
+msgstr ""
+
+#: inc/dashboard/theme-info.php:137
+msgid ""
+"Congratulations...! You have activated a magazine front page successfully. "
+"Now start adding posts widgets to magazine widget areas. Magazine widget "
+"areas are Featured Content Area, Magazine Top Content, Magazine Mid Left "
+"Content, Magazine Mid Right Content and Magazine Bottom Content."
+msgstr ""
+
+#: inc/dashboard/theme-info.php:140
+msgid "Go to Widgets Area"
+msgstr ""
+
+#: inc/dashboard/theme-info.php:151
+msgid "Select \"A Static page\" option for the setting \"Front Page Displays\""
+msgstr ""
+
+#: inc/dashboard/theme-info.php:154
+msgid ""
+"Select the page that has \"Magazine Template\" template as the front page ."
+msgstr ""
+
+#: inc/dashboard/theme-info.php:157
+msgid "Select front page."
+msgstr ""
+
+#: inc/dashboard/theme-info.php:168
+msgid "Select the \"Magazine Template\" page template for the front page."
+msgstr ""
+
+#: inc/dashboard/theme-info.php:170
+msgid ""
+"Go to the edit screen of the front page. Then select the Template - "
+"\"Magazine Template\" from \"Page Attributes\" dialog box."
+msgstr ""
+
+#: inc/dashboard/theme-info.php:174
+msgid "Change front page template"
+msgstr ""
+
+#: inc/dashboard/theme-info.php:176
+msgid "Create a page that has \"Magazine Template\" page template."
+msgstr ""
+
+#: inc/dashboard/theme-info.php:179
+msgid ""
+"First create a page to display on front page. Give any title for that page. "
+"( eg: Home )"
+msgstr ""
+
+#: inc/dashboard/theme-info.php:180
+msgid ""
+"Then from the \"Page Attributes\" dialog box select the Template-\"Magazine "
+"Template\""
+msgstr ""
+
+#: inc/dashboard/theme-info.php:183
+msgid "Create a page."
+msgstr ""
+
+#: inc/template-tags.php:53
+#, php-format
+msgid "Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: inc/template-tags.php:79
+msgid "Tagged"
+msgstr ""
+
+#: inc/template-tags.php:95 template-parts/content-page.php:37
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: inc/template-tags.php:118
+msgid " / "
+msgstr ""
+
+#: inc/widgets/block-posts-dual.php:13
+msgid "TH: Magazine Posts (Style 3)"
+msgstr ""
+
+#: inc/widgets/block-posts-dual.php:14
+msgid "Displays posts in a two column layout."
+msgstr ""
+
+#: inc/widgets/block-posts-dual.php:29 inc/widgets/block-posts-dual.php:33
+#: inc/widgets/block-posts-grid.php:29 inc/widgets/block-posts-single.php:29
+#: inc/widgets/sidebar-posts.php:30
+msgid "Latest Posts"
+msgstr ""
+
+#: inc/widgets/block-posts-dual.php:32 inc/widgets/block-posts-dual.php:36
+#: inc/widgets/block-posts-grid.php:33 inc/widgets/block-posts-single.php:32
+#: inc/widgets/sidebar-posts.php:33
+msgid "View All"
+msgstr ""
+
+#: inc/widgets/block-posts-dual.php:42
+msgid "First Set of Posts"
+msgstr ""
+
+#: inc/widgets/block-posts-dual.php:44 inc/widgets/block-posts-dual.php:63
+#: inc/widgets/block-posts-grid.php:40 inc/widgets/block-posts-single.php:38
+#: inc/widgets/sidebar-posts.php:40
+msgid "Title:"
+msgstr ""
+
+#: inc/widgets/block-posts-dual.php:48 inc/widgets/block-posts-dual.php:67
+#: inc/widgets/block-posts-single.php:42 inc/widgets/featured-content.php:35
+#: inc/widgets/sidebar-posts.php:44
+msgid "Select a post category"
+msgstr ""
+
+#: inc/widgets/block-posts-dual.php:49 inc/widgets/block-posts-dual.php:68
+#: inc/widgets/block-posts-grid.php:45 inc/widgets/block-posts-single.php:43
+#: inc/widgets/featured-content.php:36 inc/widgets/sidebar-posts.php:45
+msgid "Show latest posts"
+msgstr ""
+
+#: inc/widgets/block-posts-dual.php:52 inc/widgets/block-posts-dual.php:71
+msgid "Number of posts to show:"
+msgstr ""
+
+#: inc/widgets/block-posts-dual.php:56 inc/widgets/block-posts-dual.php:75
+#: inc/widgets/block-posts-grid.php:56 inc/widgets/block-posts-single.php:50
+#: inc/widgets/sidebar-posts.php:52
+msgid "View All Text:"
+msgstr ""
+
+#: inc/widgets/block-posts-dual.php:61
+msgid "Second Set of Posts"
+msgstr ""
+
+#: inc/widgets/block-posts-grid.php:13
+msgid "TH: Magazine Posts ( Style 1 )"
+msgstr ""
+
+#: inc/widgets/block-posts-grid.php:14 inc/widgets/block-posts-single.php:15
+msgid "Displays latest posts or posts from a choosen category."
+msgstr ""
+
+#: inc/widgets/block-posts-grid.php:44
+msgid "Select a post category:"
+msgstr ""
+
+#: inc/widgets/block-posts-grid.php:48 inc/widgets/block-posts-single.php:46
+#: inc/widgets/sidebar-posts.php:48
+msgid "Number of posts:"
+msgstr ""
+
+#: inc/widgets/block-posts-grid.php:53
+msgid "Show post excerpt."
+msgstr ""
+
+#: inc/widgets/block-posts-single.php:14
+msgid "TH: Magazine Posts (Style 2)"
+msgstr ""
+
+#: inc/widgets/featured-content.php:14
+msgid "TH: Featured Content"
+msgstr ""
+
+#: inc/widgets/featured-content.php:15
+msgid "Displays posts in style."
+msgstr ""
+
+#: inc/widgets/popular-tags-comments.php:15
+msgid "TH: Popular Posts, Tags, Comments"
+msgstr ""
+
+#: inc/widgets/popular-tags-comments.php:16
+msgid "Displays popular posts, comments, tags in a tabbed pane."
+msgstr ""
+
+#: inc/widgets/popular-tags-comments.php:33
+msgid "Number of popular posts:"
+msgstr ""
+
+#: inc/widgets/popular-tags-comments.php:37
+msgid "Number of comments:"
+msgstr ""
+
+#: inc/widgets/popular-tags-comments.php:83
+msgid "Popular"
+msgstr ""
+
+#: inc/widgets/popular-tags-comments.php:84
+msgid "Comments"
+msgstr ""
+
+#: inc/widgets/popular-tags-comments.php:85
+msgid "Tags"
+msgstr ""
+
+#: inc/widgets/popular-tags-comments.php:144
+msgid "No comments found."
+msgstr ""
+
+#: inc/widgets/popular-tags-comments.php:158
+msgid "No tags created."
+msgstr ""
+
+#: inc/widgets/sidebar-posts.php:14
+msgid "TH: Sidebar Posts"
+msgstr ""
+
+#: inc/widgets/sidebar-posts.php:15
+msgid ""
+"Displays latest posts or posts from a choosen category. Use this widget in "
+"the main sidebar or footer sidebars."
+msgstr ""
+
+#: search.php:22
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: single.php:23
+msgid "Next Article"
+msgstr ""
+
+#: single.php:25
+msgid "Previous Article"
+msgstr ""
+
+#: template-magazine.php:18
+msgid ""
+"Please go to Appearance &#8594; Widgets OR Appearance &#8594; Customize "
+"&#8594; Widgets and add widgets to the \"Featured Content Area\", \"Magazine "
+"Top Content\", \"Magazine Mid Left Content\" and \"Magazine Mid Right Content"
+"\" widget areas.\n"
+"                You can use TH: Magazine Posts widgets to set up the theme "
+"like the demo website. If you want more information please read the theme "
+"documentaion."
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:24
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:37
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:44
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching "
+"can help."
+msgstr ""
+
+#: template-parts/content-page.php:24 template-parts/content-single.php:58
+#: template-parts/content.php:68
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content-single.php:47 template-parts/content.php:50
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""

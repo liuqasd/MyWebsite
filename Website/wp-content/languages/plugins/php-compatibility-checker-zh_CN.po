@@ -1,0 +1,247 @@
+# Translation of Plugins - PHP Compatibility Checker - Stable (latest release) in Chinese (China)
+# This file is distributed under the same license as the Plugins - PHP Compatibility Checker - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-05-22 03:41:25+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: zh_CN\n"
+"Project-Id-Version: Plugins - PHP Compatibility Checker - Stable (latest release)\n"
+
+#: src/wpephpcompat.php:246
+msgid " compatible."
+msgstr "兼容性。"
+
+#: src/wpephpcompat.php:230
+msgid "The plugin/theme was skipped as it was too large to scan before the server killed the process."
+msgstr "该插件/主题被跳过，因为文件太大而无法在服务器终止进程之前进行扫描。"
+
+#: wpengine-phpcompat.php:660
+msgid "Start Scan"
+msgstr "开始扫描"
+
+#. translators: %s: URL to admin page
+#: wpengine-phpcompat.php:639
+msgid "You have just activated the <strong>PHP Compatibility Checker</strong>. <a href=\"%s\">Start scanning your plugins and themes for compatibility with the latest PHP versions now!</a>"
+msgstr "您刚刚启用了 <strong>PHP 兼容性检查工具</strong>。<a href=\"%s\">立即开始扫描您的插件和主题与最新PHP版本的兼容性！</a>"
+
+#: wpengine-phpcompat.php:596
+msgid "toggle details"
+msgstr "切换详情"
+
+#: wpengine-phpcompat.php:594
+msgid "Update Available"
+msgstr "可用更新"
+
+#: wpengine-phpcompat.php:589
+msgid "Errors:"
+msgstr "错误："
+
+#: wpengine-phpcompat.php:586
+msgid "Warnings:"
+msgstr "警告："
+
+#: wpengine-phpcompat.php:583
+msgid "Compatible"
+msgstr "兼容"
+
+#: wpengine-phpcompat.php:580
+msgid "Unknown"
+msgstr "未知"
+
+#: wpengine-phpcompat.php:562
+msgid "Submit to Codeable"
+msgstr "提交到 Codeable"
+
+#: wpengine-phpcompat.php:559
+msgid "Automatically submit this error report to Codeable to get a quick quote from their vetted WordPress developers."
+msgstr "自动将此错误报告提交给 Codeable，以便从经过审核的 WordPress 开发者手中获得快速报价。"
+
+#: wpengine-phpcompat.php:558
+msgid "Get PHP 7 ready with Codeable"
+msgstr "使用 Codeable 为 PHP7 做好准备"
+
+#: wpengine-phpcompat.php:554
+msgid "Find a WP Engine Partner"
+msgstr "寻找 WP Engine 合作伙伴"
+
+#: wpengine-phpcompat.php:553
+msgid "Our agency partners can help make your site PHP 7 compatible."
+msgstr "我们的代理合作伙伴可帮助您，使您的站点兼容 PHP7。"
+
+#: wpengine-phpcompat.php:552
+msgid "Get help from WP Engine partners"
+msgstr "从 WP Engine 的合作伙伴获得帮助"
+
+#: wpengine-phpcompat.php:550
+msgid "Need help making this site PHP 7 compatible?"
+msgstr "需要帮助使此站点兼容 PHP7 吗？"
+
+#: wpengine-phpcompat.php:542
+msgid "Click here to upgrade to PHP 7"
+msgstr "点击这里升级到PHP 7"
+
+#: wpengine-phpcompat.php:542
+msgid "Already a WP Engine customer?"
+msgstr "已是 WP Engine 的客户？"
+
+#: wpengine-phpcompat.php:541
+msgid "Get PHP 7 Hosting"
+msgstr "获取 PHP7 主机"
+
+#: wpengine-phpcompat.php:539
+msgid "Upgrade to PHP 7 for free"
+msgstr "免费升级到PHP 7"
+
+#: wpengine-phpcompat.php:536
+msgid "Speed up your site and improve your conversion opportunities by upgrading to PHP 7 on the WP Engine platform."
+msgstr "通过在 WP Engine 平台上升级到 PHP7，加速您的站点并提高转换机会。"
+
+#: wpengine-phpcompat.php:533
+msgid "Make your site 2x faster with PHP 7 WordPress hosting"
+msgstr "使用 PHP7 的 WordPress 主机使您的站点速度提高2倍"
+
+#: wpengine-phpcompat.php:531
+msgid "Make your site 2x faster by upgrading to PHP 7"
+msgstr "通过升级到 PHP7 使您的站点速度提高2倍"
+
+#. translators: %s: GitHub Wiki URL
+#: wpengine-phpcompat.php:516
+msgid "Report false positives <a target=\"_blank\" href=\"%s\">on our GitHub repo</a>."
+msgstr "在我们的 GitHub 仓库中<a target=\"_blank\" href=\"%s\">报告误报</a>。"
+
+#. translators: %s: FAQ URL
+#: wpengine-phpcompat.php:506
+msgid "The scan will get stuck if WP-Cron is not running correctly. Please <a target=\"_blank\" href=\"%s\">see the FAQ</a> for more information."
+msgstr "如果WP-Cron没有正确运行，则扫描将卡住。 请<a target=\"_blank\" href=\"%s\">查看常见问题解答</a>以获取更多信息。"
+
+#: wpengine-phpcompat.php:501
+msgid "PHP Warnings could cause compatibility issues with future PHP versions and/or spam your logs."
+msgstr "PHP 警告可能会导致与未来版本 PHP 的兼容性问题和/或使您的日志成为垃圾。"
+
+#: wpengine-phpcompat.php:500
+msgid "This tool does not execute your theme or plugin code, so it cannot detect runtime compatibility issues."
+msgstr "此工具不执行主题或插件的代码，所以无法检测运行时的兼容性问题。"
+
+#: wpengine-phpcompat.php:499
+msgid "This tool cannot detect unused code paths that might be used for backwards compatibility, potentially showing false positives. We maintain <a target=\"_blank\" href=\"https://github.com/wpengine/phpcompat/wiki/Results\">a whitelist of plugins</a> that can cause false positives."
+msgstr "此工具无法检测到可能用于向后兼容的未使用的代码路径，可能会导致误报。因此，我们维护了一份可能导致误报的<a target=\"_blank\" href=\"https://github.com/wpengine/phpcompat/wiki/Results\">插件的白名单</a>。"
+
+#: wpengine-phpcompat.php:497
+msgid "Limitations &amp; Caveats"
+msgstr "限制和注意事项"
+
+#. translators: %s: hosting URL
+#: wpengine-phpcompat.php:487
+msgid "<strong>Attention:</strong> Not all errors are show-stoppers. <a target=\"_blank\" href=\"%s\">Test this site on PHP 7</a> to see if it just works!"
+msgstr "<strong>注意：</strong>并非所有错误都让人停滞不前。<a target=\"_blank\" href=\"%s\">请在 PHP 7 上测试此站点</a>，看看是否能正常运行!"
+
+#: wpengine-phpcompat.php:472
+msgid "View results as raw text"
+msgstr "以原始文本查看结果"
+
+#: wpengine-phpcompat.php:469
+msgid "Clear results"
+msgstr "清除结果"
+
+#: wpengine-phpcompat.php:468
+msgid "Download Report"
+msgstr "下载报告"
+
+#. translators: %s: PHP version number
+#: wpengine-phpcompat.php:461
+msgid "Scan Results for PHP %s Compatibility"
+msgstr "PHP %s 兼容性的扫描结果"
+
+#: wpengine-phpcompat.php:435
+msgid "Scan all plugins and themes"
+msgstr "扫描所有插件和主题"
+
+#: wpengine-phpcompat.php:434
+msgid "Only scan active plugins and themes"
+msgstr "仅扫描启用的插件和主题"
+
+#: wpengine-phpcompat.php:431
+msgid "Plugin / Theme Status"
+msgstr "插件/主题状态"
+
+#: wpengine-phpcompat.php:419
+msgid "PHP Version"
+msgstr "PHP版本"
+
+#: wpengine-phpcompat.php:415
+msgid "Scan Options"
+msgstr "扫描选项"
+
+#: wpengine-phpcompat.php:412
+msgid "This tool will lint your theme and plugin code on this site and provide you a report of compatibility issues. These issues are categorized into errors and warnings and will list the file and line number of the offending code, as well as the info about why that line of code is incompatible with the chosen version of PHP. This tool will also suggest updates to themes and plugins, as a new version may offer compatible code."
+msgstr "此工具将对本站的主题和插件代码进行检测，并提供一份兼容性问题的报告。这些问题的类型分为错误和警告，且会列出违规代码的文件和行号，以及该行代码与所选 PHP 版本不兼容的原因。此工具也会建议更新主题和插件，因为最新版本可能会提供兼容的代码。"
+
+#: wpengine-phpcompat.php:411
+msgid "The PHP Compatibility Checker can be used on any WordPress website on any web host."
+msgstr "PHP 兼容性检查工具可用于任何 web 主机上运作的任何 WordPress 站点。"
+
+#: wpengine-phpcompat.php:376
+msgid "PHP Compatibility"
+msgstr "PHP兼容性"
+
+#: wpengine-phpcompat.php:361
+msgid "Your WordPress site is"
+msgstr "您的 WordPress 站点是"
+
+#: wpengine-phpcompat.php:360
+msgid "Scan site again"
+msgstr "再次扫描站点"
+
+#: wpengine-phpcompat.php:359 wpengine-phpcompat.php:443
+msgid "Scan site"
+msgstr "扫描站点"
+
+#: wpengine-phpcompat.php:358
+msgid "out of"
+msgstr "由于"
+
+#: wpengine-phpcompat.php:357
+msgid "Your WordPress site is possibly not PHP"
+msgstr "您的 WordPress 站点可能不是PHP"
+
+#: wpengine-phpcompat.php:356
+msgid "plugins/themes may not be compatible"
+msgstr "插件/主题可能不兼容"
+
+#: wpengine-phpcompat.php:355
+msgid "compatible"
+msgstr "兼容"
+
+#: src/wpephpcompat.php:219 wpengine-phpcompat.php:354
+msgid "Name"
+msgstr "名称"
+
+#: wpengine-phpcompat.php:299
+msgid "Job"
+msgstr "Job"
+
+#: wpengine-phpcompat.php:298
+msgid "Jobs"
+msgstr "Jobs"
+
+#. Author of the plugin
+msgid "WP Engine"
+msgstr "WP Engine"
+
+#. Description of the plugin
+msgid "Make sure your plugins and themes are compatible with newer PHP versions."
+msgstr "确保您的插件和主题与较新的PHP版本兼容。"
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://wpengine.com"
+msgstr "https://wpengine.com"
+
+#. Plugin Name of the plugin
+#: wpengine-phpcompat.php:409
+msgid "PHP Compatibility Checker"
+msgstr "PHP 兼容性检查工具"

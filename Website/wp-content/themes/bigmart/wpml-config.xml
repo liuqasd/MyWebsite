@@ -1,0 +1,10 @@
+<wpml-config>
+<admin-texts>
+<key name="theme_mods_bigmart">
+    <key name="bigmart_th_text" />
+    <key name="bigmart_toggle_menu_label" />
+    <key name="bigmart_footer_copyright" />
+    <key name="bigmart_archive_readmore" />
+</key>
+</admin-texts>
+</wpml-config>

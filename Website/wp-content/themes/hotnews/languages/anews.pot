@@ -1,0 +1,1806 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Anews\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-02-04 17:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.8; wp-5.9\n"
+"X-Domain: anews"
+
+#: inc/template-functions.php:67
+msgid " Comments"
+msgstr ""
+
+#. %s: powered by
+#: inc/hook/custom.php:202
+#, php-format
+msgid " Theme anews by %s"
+msgstr ""
+
+#. The field ID where the error occurs.
+#: inc/kirki/core/class-kirki-field.php:498
+#: inc/kirki/core/class-kirki-field.php:509
+#, php-format
+msgid ""
+"\"output\" invalid format in field %s. The \"output\" argument should be "
+"defined as an array of arrays."
+msgstr ""
+
+#. %1$s represents the field ID where the error occurs.
+#: inc/kirki/core/class-kirki-field.php:375
+#, php-format
+msgid "\"partial_refresh\" invalid entry in field %s"
+msgstr ""
+
+#: inc/kirki/deprecated/functions.php:19
+#, php-format
+msgid "%1$s or %2$s"
+msgstr ""
+
+#: functions.php:376
+msgid "&nbsp;"
+msgstr ""
+
+#: inc/kirki-customizer.php:64
+msgid "+99 123 456 78"
+msgstr ""
+
+#: inc/template-functions.php:118 inc/template-functions.php:136
+msgid "--Select--"
+msgstr ""
+
+#: inc/kirki-customizer.php:1166
+msgid "10M"
+msgstr ""
+
+#: inc/kirki-customizer.php:1826
+msgid "404 Options"
+msgstr ""
+
+#: 404.php:29 inc/kirki-customizer.php:1839
+msgid ""
+"<h2> Oops! page not found.</h2><p>The page you are looking for is not "
+"available or does not belong to this website!</p>"
+msgstr ""
+
+#: inc/kirki-customizer.php:1081
+msgid "Add Add Read More Link"
+msgstr ""
+
+#: inc/kirki-customizer.php:604 inc/kirki-customizer.php:1258
+#: inc/kirki-customizer.php:1336 inc/kirki-customizer.php:1976
+#: inc/kirki-customizer.php:2076 inc/kirki-customizer.php:2176
+msgid "Add Ads Code Here"
+msgstr ""
+
+#: inc/kirki-customizer.php:812
+msgid "Add Background for Category Section"
+msgstr ""
+
+#: inc/kirki-customizer.php:1368
+msgid "Add Background for Menu Section"
+msgstr ""
+
+#: inc/kirki-customizer.php:959
+msgid "Add Background for Subscribe Section"
+msgstr ""
+
+#: inc/kirki-customizer.php:872
+msgid "Add Box Title"
+msgstr ""
+
+#: inc/kirki-customizer.php:796
+msgid "Add Categroy Title Here"
+msgstr ""
+
+#: inc/kirki-customizer.php:1177
+msgid "Add Color for background"
+msgstr ""
+
+#: inc/kirki-customizer.php:521
+msgid "Add Content For Advertisement Section"
+msgstr ""
+
+#: inc/kirki-customizer.php:1836
+msgid "Add Content For Error Page"
+msgstr ""
+
+#: inc/kirki-customizer.php:1284
+msgid "Add Content For Header"
+msgstr ""
+
+#: inc/kirki-customizer.php:144
+msgid "Add Content for Home page"
+msgstr ""
+
+#: inc/kirki-customizer.php:1860
+msgid "Add Content For Single Post"
+msgstr ""
+
+#: inc/kirki-customizer.php:1279
+msgid "Add Content for Theme Options"
+msgstr ""
+
+#: inc/kirki-customizer.php:1827
+msgid "Add Content On 404 Page"
+msgstr ""
+
+#: inc/kirki-customizer.php:2196
+msgid "Add Content On Footer"
+msgstr ""
+
+#: inc/kirki-customizer.php:10
+msgid "Add Content ON header Top section"
+msgstr ""
+
+#: inc/kirki-customizer.php:981
+msgid "Add Content on Recent Post with Follow Us Section"
+msgstr ""
+
+#: inc/kirki-customizer.php:908
+msgid "Add Content on Subscribe Options Here"
+msgstr ""
+
+#: inc/kirki-customizer.php:1820
+msgid "Add Contnet on Single Post"
+msgstr ""
+
+#: inc/kirki-customizer.php:48
+msgid "Add Email"
+msgstr ""
+
+#: inc/kirki-customizer.php:427
+msgid "Add Featured Post Title Here"
+msgstr ""
+
+#: inc/kirki/controls/php/class-kirki-control-repeater.php:419
+#: inc/kirki/controls/php/class-kirki-control-repeater.php:423
+msgid "Add File"
+msgstr ""
+
+#: inc/kirki-customizer.php:1109
+msgid "Add Follow Us Title Here"
+msgstr ""
+
+#: inc/kirki-customizer.php:1171
+msgid "Add Followe Us Text Here"
+msgstr ""
+
+#: inc/kirki-customizer.php:112
+msgid "Add Header Top Background Color"
+msgstr ""
+
+#: inc/kirki-customizer.php:134
+msgid "Add Header Top Hover Color"
+msgstr ""
+
+#: inc/kirki-customizer.php:123
+msgid "Add Header Top text Color"
+msgstr ""
+
+#: inc/kirki-customizer.php:248
+msgid "Add Headline Post Options Here"
+msgstr ""
+
+#: inc/kirki-customizer.php:268
+msgid "Add Headline Section Title Here"
+msgstr ""
+
+#: inc/kirki/controls/php/class-kirki-control-repeater.php:387
+#: inc/kirki/controls/php/class-kirki-control-repeater.php:391
+msgid "Add Image"
+msgstr ""
+
+#: inc/kirki-customizer.php:2236
+msgid "Add Instagram Post Link Here"
+msgstr ""
+
+#: inc/kirki-customizer.php:860 inc/kirki-customizer.php:1129
+msgid "Add Items"
+msgstr ""
+
+#: inc/kirki-customizer.php:1141 inc/kirki-customizer.php:2235
+msgid "Add Link"
+msgstr ""
+
+#: inc/widgets/anews-about-widget.php:104
+msgid "Add Media"
+msgstr ""
+
+#: inc/kirki-customizer.php:62
+msgid "Add Mobiel Number"
+msgstr ""
+
+#: inc/kirki-customizer.php:625
+msgid "Add Most View and Recent Post Options Here"
+msgstr ""
+
+#: inc/kirki-customizer.php:645
+msgid "Add Most View Title Here"
+msgstr ""
+
+#. %s represents the label of the row.
+#: inc/kirki/controls/php/class-kirki-control-repeater.php:86
+#, php-format
+msgid "Add new %s"
+msgstr ""
+
+#: inc/kirki-customizer.php:1398
+msgid "Add News ticker Title Here"
+msgstr ""
+
+#: inc/kirki-customizer.php:834
+msgid "Add Post Box Options Here"
+msgstr ""
+
+#: inc/kirki-customizer.php:873
+msgid "Add Post Box Title Here"
+msgstr ""
+
+#: inc/kirki-customizer.php:775
+msgid "Add Post Category Options Here"
+msgstr ""
+
+#: inc/kirki-customizer.php:696
+msgid "Add Recent Post Title Here"
+msgstr ""
+
+#: inc/kirki-customizer.php:1002
+msgid "Add Recent Post Title Title Here"
+msgstr ""
+
+#: inc/kirki-customizer.php:896
+msgid "Add Red More Link Here"
+msgstr ""
+
+#: inc/kirki-customizer.php:368
+msgid "Add Slider Post Title Here"
+msgstr ""
+
+#: inc/kirki-customizer.php:348
+msgid "Add Slider with Featured Post Options Here"
+msgstr ""
+
+#: inc/kirki-customizer.php:1142
+msgid "Add Social Followe Us Link Here"
+msgstr ""
+
+#: inc/kirki-customizer.php:1165
+msgid "Add Social Followe Us Number Here"
+msgstr ""
+
+#: inc/kirki-customizer.php:1127
+msgid "Add Social Info"
+msgstr ""
+
+#: inc/kirki-customizer.php:944
+msgid "Add Subscribe Link Here(contact me if you need help)"
+msgstr ""
+
+#: inc/kirki-customizer.php:929
+msgid "Add Subscribe Title Here"
+msgstr ""
+
+#: inc/kirki-customizer.php:171
+msgid "Add Tradning Post Options Here"
+msgstr ""
+
+#: functions.php:193 functions.php:204 functions.php:215 functions.php:226
+#: functions.php:237 functions.php:248
+msgid "Add widgets here."
+msgstr ""
+
+#: inc/kirki-customizer.php:1897
+msgid "Ads Banner One"
+msgstr ""
+
+#: inc/kirki-customizer.php:1192
+msgid "Ads Banner Section"
+msgstr ""
+
+#: inc/kirki-customizer.php:2097
+msgid "Ads Banner Three"
+msgstr ""
+
+#: inc/kirki-customizer.php:1997
+msgid "Ads Banner Two"
+msgstr ""
+
+#: inc/kirki-customizer.php:549 inc/kirki-customizer.php:603
+#: inc/kirki-customizer.php:1203 inc/kirki-customizer.php:1257
+#: inc/kirki-customizer.php:1298 inc/kirki-customizer.php:1335
+#: inc/kirki-customizer.php:1921 inc/kirki-customizer.php:1975
+#: inc/kirki-customizer.php:2021 inc/kirki-customizer.php:2075
+#: inc/kirki-customizer.php:2121 inc/kirki-customizer.php:2175
+msgid "Ads Code"
+msgstr ""
+
+#: inc/kirki-customizer.php:548 inc/kirki-customizer.php:1202
+#: inc/kirki-customizer.php:1297 inc/kirki-customizer.php:1920
+#: inc/kirki-customizer.php:2020 inc/kirki-customizer.php:2120
+msgid "Ads Link"
+msgstr ""
+
+#: inc/kirki-customizer.php:582 inc/kirki-customizer.php:1236
+#: inc/kirki-customizer.php:1319 inc/kirki-customizer.php:1954
+#: inc/kirki-customizer.php:2054 inc/kirki-customizer.php:2154
+msgid "Ads URL"
+msgstr ""
+
+#: inc/kirki-customizer.php:520
+msgid "Advertisement One"
+msgstr ""
+
+#. Name of the theme
+msgid "Anews"
+msgstr ""
+
+#: inc/hook/custom.php:43 inc/hook/custom.php:296 inc/hook/custom.php:316
+#: inc/hook/custom.php:336 inc/section/home-ads1-section.php:9
+#: inc/section/home-resent-post-section.php:72
+msgid "anews Banner"
+msgstr ""
+
+#: inc/widgets/anews-about-widget.php:39
+msgid "anews company logo"
+msgstr ""
+
+#: inc/widgets/anews-about-widget.php:7 inc/widgets/anews-about-widget.php:8
+msgid "Anews Info Widget"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Anews is a Newspaper Theme. Themeuniver launce it free for WordPress users"
+msgstr ""
+
+#: inc/widgets/recent-posts.php:7
+msgid "Anews Recent Post With Thumbnails"
+msgstr ""
+
+#: inc/kirki-customizer.php:1794
+msgid "Archive Page Layout"
+msgstr ""
+
+#: inc/kirki-customizer.php:213 inc/kirki-customizer.php:320
+#: inc/kirki-customizer.php:405 inc/kirki-customizer.php:470
+#: inc/kirki-customizer.php:682 inc/kirki-customizer.php:732
+#: inc/kirki-customizer.php:889 inc/kirki-customizer.php:1038
+msgid "ASC"
+msgstr ""
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:106
+msgid "Auto"
+msgstr ""
+
+#: inc/kirki-customizer.php:225
+msgid "Background"
+msgstr ""
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:113
+msgid "Background Attachment"
+msgstr ""
+
+#: inc/kirki-customizer.php:811 inc/kirki-customizer.php:958
+#: inc/kirki-customizer.php:1176
+#: inc/kirki/controls/php/class-kirki-control-background.php:48
+msgid "Background Color"
+msgstr ""
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:54
+msgid "Background Image"
+msgstr ""
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:81
+msgid "Background Position"
+msgstr ""
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:70
+msgid "Background Repeat"
+msgstr ""
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:97
+msgid "Background Size"
+msgstr ""
+
+#: inc/kirki/controls/php/class-kirki-control-typography.php:87
+msgid "Backup Font"
+msgstr ""
+
+#: functions.php:109
+msgid "Black"
+msgstr ""
+
+#. Name of the template
+msgid "Blank Template"
+msgstr ""
+
+#: index.php:36
+msgid "Blog"
+msgstr ""
+
+#: inc/kirki-customizer.php:1753
+msgid "Blog Page Layout"
+msgstr ""
+
+#: functions.php:94
+msgid "Blue"
+msgstr ""
+
+#: inc/kirki-customizer.php:1419
+msgid "Body Typography"
+msgstr ""
+
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:213
+msgid "Bold 700"
+msgstr ""
+
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:214
+msgid "Bold 700 Italic"
+msgstr ""
+
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:203
+msgid "Book 300"
+msgstr ""
+
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:204
+msgid "Book 300 Italic"
+msgstr ""
+
+#: inc/kirki/field/class-kirki-field-spacing.php:33
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:130
+msgid "Bottom"
+msgstr ""
+
+#: inc/kirki-customizer.php:148
+msgid "Braking News"
+msgstr ""
+
+#: inc/hook/custom.php:270 inc/section/home-category-section.php:61
+#: inc/section/home-most-view-section.php:42
+#: inc/section/home-tranding-section.php:96
+#: inc/section/home-tranding-section.php:121
+msgid "By"
+msgstr ""
+
+#: inc/kirki/controls/php/class-kirki-control-typography.php:177
+msgid "Capitalize"
+msgstr ""
+
+#: inc/kirki-customizer.php:798
+msgid "Categoris"
+msgstr ""
+
+#: inc/kirki-customizer.php:220
+msgid "Category Button"
+msgstr ""
+
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:133
+#: inc/kirki/controls/php/class-kirki-control-typography.php:151
+msgid "Center"
+msgstr ""
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:91
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:122
+msgid "Center Bottom"
+msgstr ""
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:90
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:121
+msgid "Center Center"
+msgstr ""
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:89
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:120
+msgid "Center Top"
+msgstr ""
+
+#: inc/kirki/controls/php/class-kirki-control-repeater.php:419
+#: inc/kirki/controls/php/class-kirki-control-repeater.php:421
+msgid "Change File"
+msgstr ""
+
+#: inc/kirki/controls/php/class-kirki-control-repeater.php:387
+#: inc/kirki/controls/php/class-kirki-control-repeater.php:389
+msgid "Change Image"
+msgstr ""
+
+#: inc/kirki/field/class-kirki-field-image.php:48
+#: inc/kirki/controls/views/image.php:35
+msgid "Change image"
+msgstr ""
+
+#: inc/kirki/field/class-kirki-field-image.php:53
+#: inc/kirki/controls/views/image.php:40
+msgid "Choose image"
+msgstr ""
+
+#: inc/kirki/controls/php/class-kirki-control-typography.php:221
+msgid "Color"
+msgstr ""
+
+#: comments.php:49
+msgid "Comments are closed."
+msgstr ""
+
+#: inc/widgets/anews-about-widget.php:129
+msgid "Company Info"
+msgstr ""
+
+#. %1$s represents the field ID where the error occurs. %2$s is the URL in the documentation site.
+#: inc/kirki/core/class-kirki-field.php:257
+#: inc/kirki/core/class-kirki-field.php:267
+#, php-format
+msgid ""
+"Config not defined for field %1$s - See %2$s for details on how to properly "
+"add fields."
+msgstr ""
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:103
+msgid "Contain"
+msgstr ""
+
+#. %s: Name of current post. Only visible to screen readers
+#: template-parts/content.php:52
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: inc/kirki-customizer.php:2253
+msgid "Copyright Text"
+msgstr ""
+
+#: inc/kirki-customizer.php:2255
+msgid "Copyright © All rights reserved."
+msgstr ""
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:100
+msgid "Cover"
+msgstr ""
+
+#: inc/kirki/controls/php/class-kirki-control-base.php:138
+msgid "CSS Defaults"
+msgstr ""
+
+#: inc/kirki/modules/custom-sections/sections/class-kirki-sections-nested-section.php:61
+msgid "Customizing"
+msgstr ""
+
+#. The title.
+#: inc/kirki/modules/custom-sections/sections/class-kirki-sections-nested-section.php:64
+#, php-format
+msgid "Customizing &#9656; %s"
+msgstr ""
+
+#: inc/kirki/field/class-kirki-field-image.php:49
+#: inc/kirki/controls/php/class-kirki-control-base.php:134
+#: inc/kirki/controls/views/image.php:36
+msgid "Default"
+msgstr ""
+
+#: inc/kirki/controls/php/class-kirki-control-base.php:139
+msgid "Default Browser Font-Family"
+msgstr ""
+
+#: inc/kirki-customizer.php:50
+msgid "demo@demo.com"
+msgstr ""
+
+#: inc/kirki-customizer.php:214 inc/kirki-customizer.php:321
+#: inc/kirki-customizer.php:406 inc/kirki-customizer.php:471
+#: inc/kirki-customizer.php:683 inc/kirki-customizer.php:733
+#: inc/kirki-customizer.php:890 inc/kirki-customizer.php:1039
+msgid "DESE"
+msgstr ""
+
+#: inc/kirki-customizer.php:22 inc/kirki-customizer.php:163
+#: inc/kirki-customizer.php:184 inc/kirki-customizer.php:261
+#: inc/kirki-customizer.php:361 inc/kirki-customizer.php:535
+#: inc/kirki-customizer.php:638 inc/kirki-customizer.php:789
+#: inc/kirki-customizer.php:848 inc/kirki-customizer.php:922
+#: inc/kirki-customizer.php:995 inc/kirki-customizer.php:1878
+#: inc/kirki-customizer.php:1889 inc/kirki-customizer.php:1908
+#: inc/kirki-customizer.php:2008 inc/kirki-customizer.php:2108
+#: inc/kirki-customizer.php:2209
+msgid "Disable"
+msgstr ""
+
+#: inc/widgets/recent-posts.php:11
+msgid "Display Recent Posts with thumbnails"
+msgstr ""
+
+#: inc/kirki/field/class-kirki-field-color.php:52
+msgid ""
+"Do not use \"alpha\" as an argument in color controls. Use \"choices[alpha]"
+"\" instead."
+msgstr ""
+
+#: inc/kirki/core/class-kirki-init.php:369
+msgid "Don't show this again"
+msgstr ""
+
+#. %s: Name of current post. Only visible to screen readers
+#: inc/template-tags.php:109 template-parts/content-page.php:39
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: inc/comments-template.php:80
+msgid "Edit Comment"
+msgstr ""
+
+#: inc/kirki-customizer.php:21 inc/kirki-customizer.php:162
+#: inc/kirki-customizer.php:183 inc/kirki-customizer.php:260
+#: inc/kirki-customizer.php:360 inc/kirki-customizer.php:534
+#: inc/kirki-customizer.php:637 inc/kirki-customizer.php:788
+#: inc/kirki-customizer.php:847 inc/kirki-customizer.php:921
+#: inc/kirki-customizer.php:994 inc/kirki-customizer.php:1877
+#: inc/kirki-customizer.php:1888 inc/kirki-customizer.php:1907
+#: inc/kirki-customizer.php:2007 inc/kirki-customizer.php:2107
+#: inc/kirki-customizer.php:2208
+msgid "Enable"
+msgstr ""
+
+#: inc/kirki-customizer.php:529
+msgid "Enable Ads Section"
+msgstr ""
+
+#: inc/kirki-customizer.php:2102
+msgid "Enable Ads Three"
+msgstr ""
+
+#: inc/kirki-customizer.php:2002
+msgid "Enable Ads Two"
+msgstr ""
+
+#: inc/kirki-customizer.php:1902
+msgid "Enable Banner One"
+msgstr ""
+
+#: inc/kirki-customizer.php:157
+msgid "Enable Braking News"
+msgstr ""
+
+#: inc/kirki-customizer.php:1351
+msgid "Enable Date"
+msgstr ""
+
+#: inc/kirki-customizer.php:2203
+msgid "Enable Footer Top"
+msgstr ""
+
+#: inc/kirki-customizer.php:1352
+msgid "Enable Header Date Options"
+msgstr ""
+
+#: inc/kirki-customizer.php:1360
+msgid "Enable Header Search box Options"
+msgstr ""
+
+#: inc/kirki-customizer.php:35
+msgid "Enable Header Top menu"
+msgstr ""
+
+#: inc/kirki-customizer.php:1389
+msgid "Enable News ticker"
+msgstr ""
+
+#: inc/kirki-customizer.php:1390
+msgid "Enable News ticker Options"
+msgstr ""
+
+#: inc/kirki-customizer.php:298 inc/kirki-customizer.php:485
+#: inc/kirki-customizer.php:740
+msgid "Enable Read More"
+msgstr ""
+
+#: inc/kirki-customizer.php:486
+msgid "Enable Read more Button for featured Post"
+msgstr ""
+
+#: inc/kirki-customizer.php:741
+msgid "Enable Read more Button for Recent Post Here"
+msgstr ""
+
+#: inc/kirki-customizer.php:1066
+msgid "Enable Read More button if you need"
+msgstr ""
+
+#: inc/kirki-customizer.php:1884
+msgid "Enable Related Post"
+msgstr ""
+
+#: inc/kirki-customizer.php:1359
+msgid "Enable Search Box"
+msgstr ""
+
+#: inc/kirki-customizer.php:1873
+msgid "Enable Share Icon"
+msgstr ""
+
+#: inc/kirki-customizer.php:2003 inc/kirki-customizer.php:2103
+msgid "Enable Single Ads One if you need"
+msgstr ""
+
+#: inc/kirki-customizer.php:355
+msgid "Enable Slider Post Section"
+msgstr ""
+
+#: inc/kirki-customizer.php:842 inc/kirki-customizer.php:916
+#: inc/kirki-customizer.php:989
+msgid "Enable This Section"
+msgstr ""
+
+#: inc/kirki-customizer.php:632 inc/kirki-customizer.php:783
+msgid "Enable This Section Post"
+msgstr ""
+
+#: inc/kirki-customizer.php:299
+msgid "Enable Top Head Line Read more Button Here"
+msgstr ""
+
+#: inc/kirki-customizer.php:16
+msgid "Enable Top Header"
+msgstr ""
+
+#: inc/kirki-customizer.php:178 inc/kirki-customizer.php:255
+msgid "Enable Tranding Post"
+msgstr ""
+
+#: functions.php:303
+msgctxt "Epilogue font: on or off"
+msgid "on"
+msgstr ""
+
+#: inc/kirki-customizer.php:1835
+msgid "Error Content"
+msgstr ""
+
+#. %1$s represents the field ID where the error occurs. %2%s is buttonset/image.
+#: inc/kirki/field/class-kirki-field-radio.php:37
+#, php-format
+msgid ""
+"Error in field %1$s. The \"mode\" argument has been deprecated since Kirki "
+"v0.8. Use the \"radio-%2$s\" type instead."
+msgstr ""
+
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:215
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:216
+msgid "Extra-Bold 800"
+msgstr ""
+
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:217
+msgid "Extra-Bold 800 Italic"
+msgstr ""
+
+#: inc/kirki-customizer.php:83 inc/kirki-customizer.php:1153
+msgid "Facebook"
+msgstr ""
+
+#: inc/kirki-customizer.php:429
+msgid "Featured Post"
+msgstr ""
+
+#: inc/kirki-customizer.php:426
+msgid "Featured Post Title"
+msgstr ""
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:119
+msgid "Fixed"
+msgstr ""
+
+#: inc/kirki-customizer.php:78
+msgid "Follow"
+msgstr ""
+
+#: inc/kirki-customizer.php:1111
+msgid "Follow Us"
+msgstr ""
+
+#: inc/kirki-customizer.php:1108
+msgid "Follow Us Title"
+msgstr ""
+
+#: inc/kirki-customizer.php:1172
+msgid "Follower"
+msgstr ""
+
+#: inc/kirki-customizer.php:1170
+msgid "Follower Text"
+msgstr ""
+
+#: inc/kirki/controls/php/class-kirki-control-typography.php:82
+msgid "Font Family"
+msgstr ""
+
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:123
+#: inc/kirki/controls/php/class-kirki-control-typography.php:102
+msgid "Font Size"
+msgstr ""
+
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:126
+msgid "Font Style"
+msgstr ""
+
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:124
+msgid "Font Weight"
+msgstr ""
+
+#: functions.php:246
+msgid "Footer Four"
+msgstr ""
+
+#: functions.php:213
+msgid "Footer One"
+msgstr ""
+
+#: inc/kirki-customizer.php:2195
+msgid "Footer Options"
+msgstr ""
+
+#: functions.php:235
+msgid "Footer Three"
+msgstr ""
+
+#: functions.php:224
+msgid "Footer Two"
+msgstr ""
+
+#. Name of the template
+msgid "Front Page Template"
+msgstr ""
+
+#: 404.php:48
+msgid "Go Home"
+msgstr ""
+
+#: inc/kirki/controls/php/class-kirki-control-base.php:137
+msgid "Google Fonts"
+msgstr ""
+
+#: inc/kirki-customizer.php:1159
+msgid "Google Plus"
+msgstr ""
+
+#: functions.php:99
+msgid "Green"
+msgstr ""
+
+#: functions.php:114
+msgid "Grey"
+msgstr ""
+
+#: inc/kirki-customizer.php:1444
+msgid "H1 typography"
+msgstr ""
+
+#: inc/kirki-customizer.php:1494
+msgid "H2 typography"
+msgstr ""
+
+#: inc/kirki-customizer.php:1544
+msgid "H3 typography"
+msgstr ""
+
+#: inc/kirki-customizer.php:1594
+msgid "H4 typography"
+msgstr ""
+
+#: inc/kirki-customizer.php:1644
+msgid "H5 typography"
+msgstr ""
+
+#: inc/kirki-customizer.php:1694
+msgid "H6 typography"
+msgstr ""
+
+#: inc/kirki-customizer.php:1283
+msgid "Header Options"
+msgstr ""
+
+#: inc/kirki-customizer.php:111
+msgid "Header Top Background"
+msgstr ""
+
+#: inc/kirki-customizer.php:122
+msgid "Header Top Color"
+msgstr ""
+
+#: inc/kirki-customizer.php:133
+msgid "Header Top Hover Color"
+msgstr ""
+
+#: functions.php:52 inc/kirki-customizer.php:34
+msgid "Header Top Menu"
+msgstr ""
+
+#: inc/kirki-customizer.php:9
+msgid "Header Top Section"
+msgstr ""
+
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:137
+msgid "Height"
+msgstr ""
+
+#: 404.php:17 archive.php:29 index.php:35 page.php:36 search.php:22
+#: single.php:29 inc/hook/structure.php:67
+msgid "Home"
+msgstr ""
+
+#: inc/kirki-customizer.php:143
+msgid "Home Page Options"
+msgstr ""
+
+#: inc/kirki-customizer.php:226
+msgid "Hover Background"
+msgstr ""
+
+#: inc/kirki-customizer.php:228
+msgid "Hover Text Color"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://themeuniver.com/"
+msgstr ""
+
+#. URI of the theme
+msgid "https://themeuniver.com/free/anews"
+msgstr ""
+
+#: functions.php:141
+msgid "huge"
+msgstr ""
+
+#: inc/kirki/upgrade-notifications.php:30
+msgid "Important Upgrade Notice:"
+msgstr ""
+
+#: inc/kirki/controls/php/class-kirki-control-typography.php:139
+#: inc/kirki/controls/php/class-kirki-control-typography.php:181
+#: inc/kirki/controls/php/class-kirki-control-typography.php:197
+msgid "Inherit"
+msgstr ""
+
+#: inc/kirki/controls/php/class-kirki-control-typography.php:180
+#: inc/kirki/controls/php/class-kirki-control-typography.php:196
+msgid "Initial"
+msgstr ""
+
+#: inc/kirki-customizer.php:104 inc/kirki-customizer.php:1156
+msgid "Instagram"
+msgstr ""
+
+#: inc/widgets/recent-posts.php:47
+msgid "Instagram Feed"
+msgstr ""
+
+#: inc/kirki-customizer.php:2214
+msgid "Instagram Image"
+msgstr ""
+
+#: inc/kirki-customizer.php:2219
+msgid "Instagram Items"
+msgstr ""
+
+#: inc/kirki/core/class-kirki-init.php:368
+msgid "Install Plugin"
+msgstr ""
+
+#: inc/kirki/controls/php/class-kirki-control-dimension.php:41
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:138
+msgid "Invalid Value"
+msgstr ""
+
+#: template-parts/content-none.php:44
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: inc/kirki-customizer.php:858
+msgid "Item Box List"
+msgstr ""
+
+#: inc/kirki/controls/php/class-kirki-control-typography.php:163
+msgid "Justify"
+msgstr ""
+
+#: inc/kirki/core/class-kirki.php:237
+msgid ""
+"Kirki fields should not be added on customize_register. Please add them "
+"directly, or on init."
+msgstr ""
+
+#: functions.php:136
+msgid "L"
+msgstr ""
+
+#: functions.php:135
+msgid "larger"
+msgstr ""
+
+#: inc/kirki-customizer.php:1744
+msgid "Layout Options"
+msgstr ""
+
+#: inc/comments-template.php:47
+msgid "Leave A Comment"
+msgstr ""
+
+#. %s: post title
+#: inc/template-tags.php:92
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: inc/kirki/field/class-kirki-field-spacing.php:34
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:131
+#: inc/kirki/controls/php/class-kirki-control-typography.php:145
+msgid "Left"
+msgstr ""
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:85
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:116
+msgid "Left Bottom"
+msgstr ""
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:84
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:115
+msgid "Left Center"
+msgstr ""
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:83
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:114
+msgid "Left Top"
+msgstr ""
+
+#: inc/kirki-customizer.php:931
+msgid "Lets Join With Our Subscriber Gang"
+msgstr ""
+
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:127
+#: inc/kirki/controls/php/class-kirki-control-typography.php:118
+msgid "Letter Spacing"
+msgstr ""
+
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:201
+msgid "Light 200"
+msgstr ""
+
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:202
+msgid "Light 200 Italic"
+msgstr ""
+
+#. %s represents the number of rows we're limiting the repeater to allow.
+#: inc/kirki/controls/php/class-kirki-control-repeater.php:227
+#, php-format
+msgid "Limit: %s rows"
+msgstr ""
+
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:125
+#: inc/kirki/controls/php/class-kirki-control-typography.php:110
+msgid "Line Height"
+msgstr ""
+
+#: inc/kirki/controls/php/class-kirki-control-typography.php:195
+msgid "Line-Through"
+msgstr ""
+
+#: inc/kirki-customizer.php:1155
+msgid "Linkedin"
+msgstr ""
+
+#: inc/kirki-customizer.php:97
+msgid "linkedin"
+msgstr ""
+
+#: inc/kirki/controls/php/class-kirki-control-typography.php:179
+msgid "Lowercase"
+msgstr ""
+
+#: functions.php:130
+msgid "M"
+msgstr ""
+
+#: inc/kirki/controls/php/class-kirki-control-typography.php:213
+msgid "Margin Bottom"
+msgstr ""
+
+#: inc/kirki/controls/php/class-kirki-control-typography.php:205
+msgid "Margin Top"
+msgstr ""
+
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:208
+msgid "Medium 500"
+msgstr ""
+
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:209
+msgid "Medium 500 Italic"
+msgstr ""
+
+#: inc/kirki-customizer.php:1367
+msgid "Menu Background Color"
+msgstr ""
+
+#: inc/kirki-customizer.php:647
+msgid "Most View"
+msgstr ""
+
+#: inc/kirki-customizer.php:644
+msgid "Most View Title"
+msgstr ""
+
+#: inc/kirki-customizer.php:624
+msgid "Most View with Recent"
+msgstr ""
+
+#: inc/kirki-customizer.php:1381
+msgid "News ticker"
+msgstr ""
+
+#: inc/kirki-customizer.php:1397
+msgid "News ticker Title"
+msgstr ""
+
+#: inc/template-functions.php:63
+msgid "No comment"
+msgstr ""
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:59
+#: inc/kirki/controls/php/class-kirki-control-base.php:132
+#: inc/kirki/controls/php/class-kirki-control-repeater.php:408
+#: inc/kirki/controls/php/class-kirki-control-repeater.php:413
+msgid "No File Selected"
+msgstr ""
+
+#: inc/kirki/controls/php/class-kirki-control-repeater.php:376
+#: inc/kirki/controls/php/class-kirki-control-repeater.php:381
+msgid "No Image Selected"
+msgstr ""
+
+#: inc/kirki/field/class-kirki-field-image.php:51
+#: inc/kirki/controls/views/image.php:38
+msgid "No image selected"
+msgstr ""
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:72
+msgid "No Repeat"
+msgstr ""
+
+#: inc/kirki/controls/php/class-kirki-control-typography.php:176
+#: inc/kirki/controls/php/class-kirki-control-typography.php:192
+msgid "None"
+msgstr ""
+
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:205
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:206
+msgid "Normal 400"
+msgstr ""
+
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:207
+msgid "Normal 400 Italic"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: inc/kirki/field/class-kirki-field-switch.php:40
+#: inc/kirki/controls/php/class-kirki-control-switch.php:56
+msgid "Off"
+msgstr ""
+
+#: inc/kirki/field/class-kirki-field-switch.php:39
+#: inc/kirki/controls/php/class-kirki-control-switch.php:52
+msgid "On"
+msgstr ""
+
+#: inc/template-functions.php:65
+msgid "One comment"
+msgstr ""
+
+#: 404.php:18
+msgid "Oops! That page can&rsquo;t be found"
+msgstr ""
+
+#: functions.php:104
+msgid "Orange"
+msgstr ""
+
+#: inc/kirki-customizer.php:206 inc/kirki-customizer.php:313
+#: inc/kirki-customizer.php:398 inc/kirki-customizer.php:463
+#: inc/kirki-customizer.php:675 inc/kirki-customizer.php:726
+#: inc/kirki-customizer.php:885 inc/kirki-customizer.php:1032
+msgid "Order By"
+msgstr ""
+
+#: inc/kirki/controls/php/class-kirki-control-typography.php:194
+msgid "Overline"
+msgstr ""
+
+#: inc/kirki-customizer.php:1767
+msgid "Page Layout"
+msgstr ""
+
+#: functions.php:202
+msgid "Page Sidebar"
+msgstr ""
+
+#: template-parts/content.php:98 template-parts/content-page.php:25
+msgid "Pages:"
+msgstr ""
+
+#: inc/kirki-customizer.php:1157
+msgid "Pinterest"
+msgstr ""
+
+#. %s: post author.
+#: inc/template-tags.php:42
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#: inc/kirki-customizer.php:833
+msgid "Post Box Section"
+msgstr ""
+
+#: inc/kirki-customizer.php:774
+msgid "Post Category Section"
+msgstr ""
+
+#: inc/comments-template.php:52
+msgid "Post Comment"
+msgstr ""
+
+#: inc/kirki-customizer.php:853
+msgid "Post Control"
+msgstr ""
+
+#. %s: post date.
+#: inc/template-tags.php:26
+#, php-format
+msgctxt "post date"
+msgid "Posted %s"
+msgstr ""
+
+#: inc/kirki-customizer.php:370
+msgid "Post Slide"
+msgstr ""
+
+#: inc/widgets/recent-posts.php:31
+msgid "Posts Count:"
+msgstr ""
+
+#: functions.php:51
+msgid "Primary Menu"
+msgstr ""
+
+#: template-parts/content.php:92 template-parts/content-search.php:41
+#: inc/section/home-resent-post-section.php:38
+#: inc/section/home-resent-post-section.php:45
+#: inc/section/top-headline-section.php:53
+msgid "Read More"
+msgstr ""
+
+#: inc/kirki-customizer.php:1080
+msgid "Read More Link"
+msgstr ""
+
+#: inc/kirki-customizer.php:327 inc/kirki-customizer.php:501
+#: inc/kirki-customizer.php:755
+msgid "Read More link"
+msgstr ""
+
+#: inc/kirki-customizer.php:895
+msgid "Read More Llnk"
+msgstr ""
+
+#. 1: link to WP admin new post page.
+#: template-parts/content-none.php:24
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: inc/kirki-customizer.php:698 inc/kirki-customizer.php:1004
+msgid "Recent Post"
+msgstr ""
+
+#: inc/kirki-customizer.php:695 inc/kirki-customizer.php:1001
+msgid "Recent Post Title"
+msgstr ""
+
+#: inc/kirki-customizer.php:980
+msgid "Recent Post with Follow Us Section"
+msgstr ""
+
+#: inc/widgets/recent-posts.php:20
+msgid "Recent Posts"
+msgstr ""
+
+#: functions.php:129
+msgid "regular"
+msgstr ""
+
+#: inc/kirki-customizer.php:1868 inc/hook/custom.php:214
+msgid "Related Post"
+msgstr ""
+
+#: inc/kirki/field/class-kirki-field-image.php:50
+#: inc/kirki/controls/php/class-kirki-control-background.php:62
+#: inc/kirki/controls/php/class-kirki-control-base.php:133
+#: inc/kirki/controls/php/class-kirki-control-repeater.php:386
+#: inc/kirki/controls/php/class-kirki-control-repeater.php:418
+#: inc/kirki/controls/php/class-kirki-control-repeater.php:443
+#: inc/kirki/controls/views/image.php:37
+msgid "Remove"
+msgstr ""
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:73
+msgid "Repeat All"
+msgstr ""
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:74
+msgid "Repeat Horizontally"
+msgstr ""
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:75
+msgid "Repeat Vertically"
+msgstr ""
+
+#: inc/comments-template.php:117
+msgid "Reply"
+msgstr ""
+
+#: inc/kirki/controls/php/class-kirki-control-slider.php:67
+msgid "Reset"
+msgstr ""
+
+#: inc/kirki/field/class-kirki-field-spacing.php:35
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:132
+#: inc/kirki/controls/php/class-kirki-control-typography.php:157
+msgid "Right"
+msgstr ""
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:88
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:119
+msgid "Right Bottom"
+msgstr ""
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:87
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:118
+msgid "Right Center"
+msgstr ""
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:86
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:117
+msgid "Right Top"
+msgstr ""
+
+#: inc/kirki/controls/php/class-kirki-control-repeater.php:77
+msgid "row"
+msgstr ""
+
+#: functions.php:124
+msgid "S"
+msgstr ""
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:116
+msgid "Scroll"
+msgstr ""
+
+#: searchform.php:3 inc/hook/custom.php:77
+msgid "Search "
+msgstr ""
+
+#: searchform.php:2 searchform.php:3 inc/hook/custom.php:79
+msgid "Search for:"
+msgstr ""
+
+#: inc/kirki-customizer.php:1807
+msgid "Search page Layout"
+msgstr ""
+
+#. %s: search term
+#: search.php:24
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: inc/kirki-customizer.php:267 inc/kirki-customizer.php:795
+msgid "Section Title"
+msgstr ""
+
+#: inc/kirki/controls/php/class-kirki-control-repeater.php:121
+msgid "Select a Page"
+msgstr ""
+
+#: inc/kirki-customizer.php:1914
+msgid "Select Ads One Options"
+msgstr ""
+
+#: inc/kirki-customizer.php:541 inc/kirki-customizer.php:1197
+#: inc/kirki-customizer.php:1292
+msgid "Select Ads Options"
+msgstr ""
+
+#: inc/kirki-customizer.php:2114
+msgid "Select Ads Three Options"
+msgstr ""
+
+#: inc/kirki-customizer.php:2014
+msgid "Select Ads Two Options"
+msgstr ""
+
+#: inc/kirki-customizer.php:192 inc/kirki-customizer.php:209
+#: inc/kirki-customizer.php:284 inc/kirki-customizer.php:316
+#: inc/kirki-customizer.php:384 inc/kirki-customizer.php:401
+#: inc/kirki-customizer.php:443 inc/kirki-customizer.php:466
+#: inc/kirki-customizer.php:544 inc/kirki-customizer.php:661
+#: inc/kirki-customizer.php:678 inc/kirki-customizer.php:712
+#: inc/kirki-customizer.php:729 inc/kirki-customizer.php:879
+#: inc/kirki-customizer.php:886 inc/kirki-customizer.php:1018
+#: inc/kirki-customizer.php:1035 inc/kirki-customizer.php:1149
+#: inc/kirki-customizer.php:1199 inc/kirki-customizer.php:1294
+#: inc/kirki-customizer.php:1917 inc/kirki-customizer.php:2017
+#: inc/kirki-customizer.php:2117
+msgid "Select an option..."
+msgstr ""
+
+#: inc/kirki-customizer.php:149
+msgid "Select Braking News Settings"
+msgstr ""
+
+#: inc/kirki-customizer.php:190 inc/kirki-customizer.php:282
+#: inc/kirki-customizer.php:382 inc/kirki-customizer.php:659
+#: inc/kirki-customizer.php:710 inc/kirki-customizer.php:878
+#: inc/kirki-customizer.php:1016
+msgid "Select Category"
+msgstr ""
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:63
+#: inc/kirki/controls/php/class-kirki-control-base.php:135
+msgid "Select File"
+msgstr ""
+
+#: inc/kirki/controls/php/class-kirki-control-typography.php:83
+#: inc/kirki/controls/php/class-kirki-control-typography.php:88
+msgid "Select Font Family"
+msgstr ""
+
+#: inc/kirki-customizer.php:1148
+msgid "Select Icon"
+msgstr ""
+
+#: inc/kirki/field/class-kirki-field-image.php:47
+#: inc/kirki/field/class-kirki-field-image.php:52
+#: inc/kirki/controls/views/image.php:34 inc/kirki/controls/views/image.php:39
+msgid "Select image"
+msgstr ""
+
+#: inc/kirki-customizer.php:1745
+msgid "Select Layout Here"
+msgstr ""
+
+#: inc/kirki-customizer.php:1382
+msgid "Select Options for News ticker"
+msgstr ""
+
+#: inc/kirki-customizer.php:1412
+msgid "Select Options for Typography"
+msgstr ""
+
+#: inc/kirki-customizer.php:441
+msgid "Select Post"
+msgstr ""
+
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:210
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:211
+msgid "Semi-Bold 600"
+msgstr ""
+
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:212
+msgid "Semi-Bold 600 Italic"
+msgstr ""
+
+#: template-parts/content.php:80
+msgid "Share"
+msgstr ""
+
+#: inc/section/home-category-section.php:16
+msgid "Show All"
+msgstr ""
+
+#: inc/kirki-customizer.php:1065
+msgid "Show Read More"
+msgstr ""
+
+#: functions.php:191
+msgid "Sidebar"
+msgstr ""
+
+#: inc/kirki-customizer.php:1781
+msgid "Single Post Layout"
+msgstr ""
+
+#: inc/kirki-customizer.php:1819 inc/kirki-customizer.php:1859
+msgid "Single Post Options"
+msgstr ""
+
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:134
+msgid "Size"
+msgstr ""
+
+#: inc/hook/structure.php:51
+msgid "Skip to content"
+msgstr ""
+
+#: inc/kirki-customizer.php:367
+msgid "Slider Post Title"
+msgstr ""
+
+#: inc/kirki-customizer.php:347
+msgid "Slider with Featured Post"
+msgstr ""
+
+#: functions.php:123
+msgid "small"
+msgstr ""
+
+#: inc/kirki-customizer.php:1103
+msgid "Social Follow Us Section"
+msgstr ""
+
+#: inc/kirki-customizer.php:1122
+msgid "Social Info"
+msgstr ""
+
+#: inc/kirki-customizer.php:76
+msgid "Social Label"
+msgstr ""
+
+#: inc/kirki-customizer.php:1164
+msgid "Social Number"
+msgstr ""
+
+#: template-parts/content-none.php:37
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:135
+msgid "Spacing"
+msgstr ""
+
+#: inc/kirki/controls/php/class-kirki-control-base.php:136
+msgid "Standard Fonts"
+msgstr ""
+
+#: inc/kirki-customizer.php:943
+msgid "Subscribe Link"
+msgstr ""
+
+#: inc/section/home-subscribe-section.php:13
+msgid "Subscribe Now"
+msgstr ""
+
+#: inc/kirki-customizer.php:907
+msgid "Subscribe Section"
+msgstr ""
+
+#: inc/kirki-customizer.php:928
+msgid "Subscribe Title"
+msgstr ""
+
+#. 1: list of tags.
+#: inc/template-tags.php:57
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#: inc/kirki/controls/php/class-kirki-control-typography.php:134
+msgid "Text Align"
+msgstr ""
+
+#: inc/kirki-customizer.php:227
+msgid "Text Color"
+msgstr ""
+
+#: inc/kirki/controls/php/class-kirki-control-typography.php:189
+msgid "Text Decoration"
+msgstr ""
+
+#: inc/kirki/controls/php/class-kirki-control-typography.php:173
+msgid "Text Transform"
+msgstr ""
+
+#: inc/kirki-customizer.php:1278
+msgid "Theme Options"
+msgstr ""
+
+#. Author of the theme
+msgid "Themeuniver"
+msgstr ""
+
+#: inc/widgets/anews-about-widget.php:132
+msgid "Title:"
+msgstr ""
+
+#: inc/kirki/field/class-kirki-field-spacing.php:32
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:129
+msgid "Top"
+msgstr ""
+
+#: inc/kirki-customizer.php:270
+msgid "Top Headline"
+msgstr ""
+
+#: inc/kirki-customizer.php:247
+msgid "Top Headline Post"
+msgstr ""
+
+#: inc/kirki-customizer.php:170
+msgid "Tranding Post"
+msgstr ""
+
+#: inc/kirki-customizer.php:874
+msgid "Trending"
+msgstr ""
+
+#: inc/kirki-customizer.php:1400
+msgid "Trending News:"
+msgstr ""
+
+#: inc/kirki-customizer.php:90 inc/kirki-customizer.php:1154
+msgid "Twitter"
+msgstr ""
+
+#. %1$s represents the field ID where the error occurs.
+#: inc/kirki/core/class-kirki-field.php:358
+#, php-format
+msgid "Typo found in field %s - \"theme_mods\" vs \"theme_mod\""
+msgstr ""
+
+#. %s represents the field ID where the error occurs.
+#: inc/kirki/core/class-kirki-field.php:248
+#, php-format
+msgid "Typo found in field %s - setting instead of settings."
+msgstr ""
+
+#: inc/kirki-customizer.php:1411
+msgid "Typography"
+msgstr ""
+
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:218
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:219
+msgid "Ultra-Bold 900"
+msgstr ""
+
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:220
+msgid "Ultra-Bold 900 Italic"
+msgstr ""
+
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:198
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:199
+msgid "Ultra-Light 100"
+msgstr ""
+
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:200
+msgid "Ultra-Light 100 Italic"
+msgstr ""
+
+#: inc/kirki/controls/php/class-kirki-control-typography.php:193
+msgid "Underline"
+msgstr ""
+
+#: inc/kirki-customizer.php:562 inc/kirki-customizer.php:1216
+#: inc/kirki-customizer.php:1304 inc/kirki-customizer.php:1934
+#: inc/kirki-customizer.php:2034 inc/kirki-customizer.php:2134
+#: inc/kirki-customizer.php:2227
+msgid "Upload Image"
+msgstr ""
+
+#: inc/kirki-customizer.php:563 inc/kirki-customizer.php:1217
+#: inc/kirki-customizer.php:1305
+msgid "Upload image for Ads Banner Here."
+msgstr ""
+
+#: inc/kirki-customizer.php:1935 inc/kirki-customizer.php:2035
+#: inc/kirki-customizer.php:2135
+msgid "Upload image for Ads One Banner Here."
+msgstr ""
+
+#: inc/kirki-customizer.php:2228
+msgid "Upload Instagram Image Here"
+msgstr ""
+
+#: inc/kirki/controls/php/class-kirki-control-typography.php:178
+msgid "Uppercase"
+msgstr ""
+
+#: inc/kirki/controls/php/class-kirki-control-typography.php:93
+msgid "Variant"
+msgstr ""
+
+#: inc/section/home-most-view-section.php:90
+#: inc/section/home-post-list-section.php:49
+msgid "View All"
+msgstr ""
+
+#: inc/section/home-post-slider.php:52
+msgid "View More"
+msgstr ""
+
+#: inc/kirki-customizer.php:1158
+msgid "Vimeo"
+msgstr ""
+
+#: inc/kirki/core/class-kirki-init.php:289
+msgid ""
+"We detected you're using Kirki_Init::get_variables(). Please use Kirki_Util::"
+"get_variables() instead."
+msgstr ""
+
+#: inc/widgets/recent-posts.php:26
+msgid "Widget Title"
+msgstr ""
+
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:136
+msgid "Width"
+msgstr ""
+
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:128
+#: inc/kirki/controls/php/class-kirki-control-typography.php:126
+msgid "Word Spacing"
+msgstr ""
+
+#: functions.php:300
+msgctxt "Work Sans: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:142
+msgid "XL"
+msgstr ""
+
+#: inc/comments-template.php:49
+msgid "Your Comment"
+msgstr ""
+
+#: inc/comments-template.php:124
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/comments-template.php:21
+msgid "Your Email *"
+msgstr ""
+
+#: inc/section/home-subscribe-section.php:12
+msgid "Your Email Address"
+msgstr ""
+
+#: inc/comments-template.php:18
+msgid "Your Name *"
+msgstr ""
+
+#: inc/kirki/core/class-kirki-init.php:365
+msgid ""
+"Your theme uses a Font Awesome field for icons. To avoid issues with missing "
+"icons on your frontend we recommend you install the official Font Awesome "
+"plugin."
+msgstr ""
+
+#: inc/comments-template.php:28
+msgid "Your Website"
+msgstr ""

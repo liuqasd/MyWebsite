@@ -1,0 +1,169 @@
+.hey-feedback-background{
+    width: 100%;
+    height: 100%;
+    background: rgba(0,0,0,.8);
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.hey-feedback-dialog-wrapper {
+    position: fixed;    
+    top: 20%;
+    background: white;
+    padding: 0;
+    width: 30%;
+	min-width: 550px;
+	-webkit-border-radius: 3px;
+    border-radius: 3px;
+	overflow: hidden;
+}
+
+
+.hey-feedback-dialog-header {
+	padding: 18px 15px;
+    -webkit-box-shadow: 0 0 8px rgba(0,0,0,.1);
+    box-shadow: 0 0 8px rgba(0,0,0,.1);
+    text-align: left;
+	font-size: 15px;
+    color: #495157;
+    padding: 20px 15px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.hey-logo {
+    background: url('../images/logo.png');
+    display: inline-block;
+    width: 26px;
+    height: 30px;
+    background-size: 100%;
+}
+
+.hey-feedback-dialog-header-title{
+	line-height: 30px;
+    display: inline-block;
+    vertical-align: top;
+	padding-left: 5px;
+}
+
+.hey-feedback-dialog-form{
+	padding: 30px 30px 0;
+}
+
+.hey-feedback-dialog-form-headline{
+	font-weight: 700;
+    font-size: 15px;
+    color: #495157;
+    line-height: 1.4;
+}
+
+.hey-feedback-dialog-form-body {
+    padding-top: 30px;
+}
+
+.hey-feedback-dialog-input-wrapper {
+    line-height: 1.3;
+    overflow: hidden;
+    margin-bottom: 15px;
+}
+
+.hey-feedback-dialog-input {
+    float: left;
+    margin: 0 15px 0 0 !important;
+    -webkit-box-shadow: none !important;
+    box-shadow: none !important;
+}
+
+.hey-feedback-dialog-label {
+    display: block;
+    font-size: 13px;
+    color: #6d7882;
+}
+
+.hey-feedback-dialog-wrapper .hey-feedback-dialog-input:not(:checked)~.hey-feedback-text {
+    display: none;
+}
+
+.hey-feedback-dialog-wrapper .hey-feedback-text {
+    margin: 10px 0 0 30px;
+    padding: 5px;
+    font-size: 13px;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    background-color: #fff;
+    width: 92%;
+}
+
+.hey-feedback-dialog-buttons-wrapper{
+	margin-bottom: 20px;
+}
+
+.hey-feedback-dialog-buttons-wrapper button{
+	cursor: pointer;
+}
+
+.hey-feedback-dialog-submit-btn{
+	background-color: #315895;
+    -webkit-border-radius: 3px;
+    border-radius: 3px;
+    color: #fff;
+    line-height: 1;
+    padding: 10px 20px;
+    font-size: 13px;
+    width: 180px;
+    height: 38px;
+}
+
+.hey-feedback-dialog-skip-btn{
+    font-size: 12px;
+    color: #a4afb7;
+    background: none;
+    float: right;
+    width: auto;
+    border: none;
+    outline: 0;
+    padding: 13px 0;
+}
+
+
+@media only screen and (min-width: 1300px) {
+	.hey-feedback-dialog-wrapper{
+		left: 35%;
+	}
+}
+
+@media only screen and (min-width: 961px) and (max-width: 1299px) {
+	.hey-feedback-dialog-wrapper{
+		left: 30%;
+	}
+}
+
+@media only screen and (min-width: 783px) and (max-width: 960px) {
+	.hey-feedback-dialog-wrapper{
+		left: 20%;
+	}
+}
+
+@media only screen and (min-width: 700px) and (max-width: 782px) {
+	.hey-feedback-dialog-wrapper{
+		left: 15%;
+	}	
+}
+
+@media only screen and (min-width: 600px) and (max-width: 699px) {
+	.hey-feedback-dialog-wrapper{
+		left: 5%;
+	}	
+}
+@media only screen and (max-width: 599px) {
+	.hey-feedback-dialog-wrapper{
+		left: 0;
+		min-width: 100%;
+	}	
+	
+	.hey-feedback-dialog-wrapper .hey-feedback-text{
+		width: 90%;
+	}
+}
+

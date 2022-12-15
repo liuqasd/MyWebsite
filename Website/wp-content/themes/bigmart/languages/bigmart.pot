@@ -1,0 +1,1432 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Bigmart\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-05-24 11:10+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.1; wp-5.9.3\n"
+"X-Domain: bigmart"
+
+#: inc/theme-options/includes/helpers.php:27
+msgid " -- Choose Menu -- "
+msgstr ""
+
+#: inc/hooks/sections/blog-actions.php:223
+#: inc/hooks/sections/header-actions.php:232
+msgid "% Comments"
+msgstr ""
+
+#. number of items in the mini cart.
+#: inc/woocommerce.php:197
+#, php-format
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/theme-options/options/footer-settings.php:136
+msgid "&copy; 2021 Bigmart. All Right Reserved."
+msgstr ""
+
+#: inc/theme-options/options/header-settings.php:503
+msgid "+ 474 876543210"
+msgstr ""
+
+#: inc/theme-options/options/general-settings.php:108
+msgid "- 15 Predesigned Preloaders"
+msgstr ""
+
+#: inc/theme-options/options/header-settings.php:449
+msgid "- Add Search & CTA button in menu"
+msgstr ""
+
+#: inc/theme-options/options/footer-settings.php:75
+msgid "- Add unlimited widget areas"
+msgstr ""
+
+#: inc/theme-options/options/header-settings.php:648
+msgid "- Advanced Color & Typography Options for Title & Tagline texts."
+msgstr ""
+
+#: inc/theme-options/options/sidebar-settings.php:124
+msgid ""
+"- Choose different sidebar layouts for Product Category, Tag Page and Single "
+"Product Page"
+msgstr ""
+
+#: inc/theme-options/options/general-settings.php:108
+msgid "- Custom Preloader Upload"
+msgstr ""
+
+#: inc/theme-options/options/sidebar-settings.php:124
+msgid "- Custom Typography"
+msgstr ""
+
+#: inc/theme-options/options/header-settings.php:258
+msgid "- Custom Unique Typography Option"
+msgstr ""
+
+#: inc/theme-options/options/general-settings.php:132
+msgid "- Customization for button colors, type, size, position & many more"
+msgstr ""
+
+#: inc/theme-options/options/header-settings.php:449
+msgid "- Display different menu in mobile"
+msgstr ""
+
+#: inc/theme-options/options/header-settings.php:648
+msgid "- Display logo along with title and tagline in same line"
+msgstr ""
+
+#: inc/theme-options/options/footer-settings.php:75
+msgid "- Footer background options"
+msgstr ""
+
+#: inc/theme-options/options/footer-settings.php:75
+msgid "- Footer column width resizer"
+msgstr ""
+
+#: inc/theme-options/options/footer-settings.php:75
+msgid "- Footer Typography"
+msgstr ""
+
+#: inc/theme-options/options/header-settings.php:449
+msgid "- Full Color and Spacing Customization option for menu"
+msgstr ""
+
+#: inc/theme-options/options/header-settings.php:258
+#: inc/theme-options/options/header-settings.php:420
+#: inc/theme-options/options/header-settings.php:449
+msgid "- Full Width Option"
+msgstr ""
+
+#: inc/theme-options/options/header-settings.php:258
+msgid "- Gradient Background Option"
+msgstr ""
+
+#: inc/theme-options/options/header-settings.php:420
+msgid "- Image or Gradient Background Option"
+msgstr ""
+
+#: inc/theme-options/options/color-settings.php:80
+msgid ""
+"- More advanced color customization for individual sections and elements"
+msgstr ""
+
+#: inc/theme-options/options/blog-settings.php:137
+msgid "- More Blog Page layouts"
+msgstr ""
+
+#: inc/theme-options/options/blog-settings.php:222
+msgid "- More Single Post layouts"
+msgstr ""
+
+#: inc/theme-options/options/general-settings.php:108
+msgid "- Preloader and Background Color Customization"
+msgstr ""
+
+#: inc/theme-options/options/header-settings.php:449
+msgid "- Sticky Header"
+msgstr ""
+
+#: inc/theme-options/options/sidebar-settings.php:124
+msgid "- Sticky Sidebar"
+msgstr ""
+
+#: inc/theme-options/options/header-settings.php:449
+msgid "- Various Menu Hover styles"
+msgstr ""
+
+#: inc/theme-options/includes/helpers.php:10
+msgid "-- Choose Widget --"
+msgstr ""
+
+#: inc/hooks/sections/blog-actions.php:223
+#: inc/hooks/sections/header-actions.php:232
+msgid "1 Comment"
+msgstr ""
+
+#: 404.php:15
+msgid "404"
+msgstr ""
+
+#: inc/hooks/sections/header-actions.php:291
+msgid "404 Error"
+msgstr ""
+
+#: inc/breadcrumbs.php:144
+msgid "404 Not Found"
+msgstr ""
+
+#: inc/theme-options/options/general-settings.php:122
+msgid "A button on click scrolls to the top of the page."
+msgstr ""
+
+#: inc/theme-options/options/social-icons.php:48
+msgid "Add Link"
+msgstr ""
+
+#: inc/theme-options/options/social-icons.php:39
+msgid "Add New"
+msgstr ""
+
+#. To add an additional character subset specific to your language,
+#. translate this to 'greek', 'cyrillic', 'devanagari' or 'vietnamese'. Do not translate into your own language.
+#: functions.php:257
+msgctxt "Add new subset (greek, cyrillic, devanagari, vietnamese)"
+msgid "no-subset"
+msgstr ""
+
+#: inc/theme-options/options/social-icons.php:5
+msgid "Add social icons for the header"
+msgstr ""
+
+#: inc/theme-options/options/social-icons.php:36
+msgid "Add Social Link"
+msgstr ""
+
+#: functions.php:137
+msgid "Add widgets for footer 1."
+msgstr ""
+
+#: functions.php:147
+msgid "Add widgets for footer 2."
+msgstr ""
+
+#: functions.php:157
+msgid "Add widgets for footer 3."
+msgstr ""
+
+#: functions.php:167
+msgid "Add widgets for footer 4."
+msgstr ""
+
+#: functions.php:117 functions.php:127
+msgid "Add widgets here."
+msgstr ""
+
+#: inc/theme-options/options/header-settings.php:245
+#, php-format
+msgid "Add your %s here"
+msgstr ""
+
+#: inc/theme-options/options/header-settings.php:560
+msgid ""
+"Advanced Customization options with separate typography options for toggle "
+"section."
+msgstr ""
+
+#: inc/woocommerce.php:243 inc/woocommerce.php:274
+msgid "All Category"
+msgstr ""
+
+#: inc/theme-options/options/header-settings.php:329
+msgid "Anchor(Link) Color"
+msgstr ""
+
+#: inc/theme-options/options/sidebar-settings.php:54
+msgid "Applies to all Archive Pages."
+msgstr ""
+
+#: inc/theme-options/options/sidebar-settings.php:18
+msgid "Applies to all the General Pages and Portfolio Pages."
+msgstr ""
+
+#: inc/theme-options/options/header-settings.php:677
+msgid "Applies to all the General Pages."
+msgstr ""
+
+#: inc/theme-options/options/sidebar-settings.php:36
+msgid "Applies to all the Posts."
+msgstr ""
+
+#: inc/theme-options/options/sidebar-settings.php:72
+msgid "Applies to Blog Page."
+msgstr ""
+
+#: inc/theme-options/options/sidebar-settings.php:90
+msgid "Applies to Search Page."
+msgstr ""
+
+#: inc/theme-options/options/sidebar-settings.php:108
+msgid ""
+"Applies to Shop Page, Product Category, Product Tag and all Single Products "
+"Pages."
+msgstr ""
+
+#: woocommerce/cart/cart.php:161
+msgid "Apply Coupon"
+msgstr ""
+
+#: inc/theme-options/options/blog-settings.php:47
+msgid "Archive Content"
+msgstr ""
+
+#: inc/theme-options/options/sidebar-settings.php:52
+msgid "Archive Page Layout"
+msgstr ""
+
+#: inc/breadcrumbs.php:145
+msgid "Archives"
+msgstr ""
+
+#: inc/theme-options/custom-controls/background-image-control.php:234
+msgid "Attachment"
+msgstr ""
+
+#: woocommerce/cart/cart.php:99
+msgid "Available on backorder"
+msgstr ""
+
+#: inc/theme-options/options/general-settings.php:121
+msgid "Back to Top Button"
+msgstr ""
+
+#: inc/theme-options/custom-controls/background-image-control.php:235
+#: inc/theme-options/options/header-settings.php:284
+#: inc/theme-options/options/header-settings.php:436
+msgid "Background Color"
+msgstr ""
+
+#. Name of the theme
+msgid "Bigmart"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Bigmart is a beautifully designed responsive and fully customizable "
+"ecommerce template. It could be used for all types of e-commerce online "
+"stores, including Fashion, Clothing, Electronics, Furniture, Restaurant, "
+"Interior Store, Gadgets Store, Home Appliances Shop, Online shop, Organic "
+"Store, Retail Store, Automobile Shop, Books Store, Photo Store, Jewellery "
+"and almost any kind of store. The theme totally supports Elementor Plugin. "
+"It is fully responsive, translation ready, SEO friendly and compatible with "
+"WooCommerce. It has a user-friendly and powerful customizer panel which "
+"enhances the development of your site. Check Out Demo – https://demo."
+"wpcirqle.com/bigmart/"
+msgstr ""
+
+#: inc/theme-options/options/blog-settings.php:20
+msgid "Blog & Archive Layout"
+msgstr ""
+
+#: inc/theme-options/options/sidebar-settings.php:70
+msgid "Blog Page Layout"
+msgstr ""
+
+#: inc/theme-options/options/blog-settings.php:10
+msgid "Blog/Archive Page Settings"
+msgstr ""
+
+#: inc/theme-options/options/blog-settings.php:4
+msgid "Blog/Single Post Settings"
+msgstr ""
+
+#: inc/theme-options/options/typography.php:12
+msgid "Body"
+msgstr ""
+
+#: inc/theme-options/options/typography.php:56
+msgid "Body Typography"
+msgstr ""
+
+#: inc/theme-options/custom-controls/typography/typography-control-class.php:344
+msgid "Bold"
+msgstr ""
+
+#: inc/theme-options/custom-controls/dimensions-control.php:179
+#: inc/theme-options/custom-controls/dimensions-control.php:183
+#: inc/theme-options/custom-controls/dimensions-control.php:187
+msgid "Bottom"
+msgstr ""
+
+#: inc/theme-options/options/header-settings.php:305
+msgid "Bottom Border Color"
+msgstr ""
+
+#: inc/theme-options/options/footer-settings.php:131
+msgid "Bottom Footer"
+msgstr ""
+
+#: inc/theme-options/options/header-settings.php:425
+msgid "Bottom Header"
+msgstr ""
+
+#: inc/theme-options/options/general-settings.php:43
+msgid "Boxed"
+msgstr ""
+
+#: inc/theme-options/options/header-settings.php:781
+msgid "BreadCrumb"
+msgstr ""
+
+#: inc/theme-options/options/header-settings.php:771
+msgid "Breadcrumb"
+msgstr ""
+
+#: inc/theme-options/options/header-settings.php:801
+msgid "Breadcrumb Link Color"
+msgstr ""
+
+#: inc/theme-options/options/header-settings.php:791
+msgid "Breadcrumb Text Color"
+msgstr ""
+
+#: inc/theme-options/options/header-settings.php:782
+msgid ""
+"Breadcrumbs are a great way of letting your visitors find out where they are "
+"on your site."
+msgstr ""
+
+#: inc/breadcrumbs.php:142
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr ""
+
+#: inc/breadcrumbs.php:141
+msgid "Browse:"
+msgstr ""
+
+#: inc/theme-options/custom-controls/typography/typography-control-class.php:377
+msgid "Capitalize"
+msgstr ""
+
+#: inc/template-functions.php:83
+#: inc/theme-options/options/header-settings.php:515
+msgid "Categories"
+msgstr ""
+
+#: inc/theme-options/options/header-settings.php:107
+msgid "Center"
+msgstr ""
+
+#: inc/theme-options/custom-controls/background-image-control.php:271
+msgid "Center Bottom"
+msgstr ""
+
+#: inc/theme-options/custom-controls/background-image-control.php:270
+msgid "Center Center"
+msgstr ""
+
+#: inc/theme-options/custom-controls/background-image-control.php:269
+msgid "Center Top"
+msgstr ""
+
+#: inc/theme-options/options/header-settings.php:548
+msgid "Click"
+msgstr ""
+
+#: inc/theme-options/custom-controls/repeater-control.php:298
+msgid "Close"
+msgstr ""
+
+#: inc/theme-options/options/color-settings.php:60
+msgid "Color applies for link text in the content area."
+msgstr ""
+
+#: inc/theme-options/options/color-settings.php:38
+msgid "Color applies for tags (H1, H2, H3, H4, H5, H6)"
+msgstr ""
+
+#: inc/theme-options/options/color-settings.php:49
+msgid "Color applies for text in the content area."
+msgstr ""
+
+#: inc/theme-options/options/color-settings.php:4
+msgid "Color Settings"
+msgstr ""
+
+#. %s is the page number.
+#: inc/breadcrumbs.php:151
+#, php-format
+msgid "Comment Page %s"
+msgstr ""
+
+#: comments.php:68
+msgid "Comments are closed."
+msgstr ""
+
+#. 1: comment count number, 2: title.
+#: comments.php:41
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/theme-options/options/header-settings.php:6
+msgid "Configure header settings"
+msgstr ""
+
+#: inc/theme-options/options/header-settings.php:509
+msgid "Contact No."
+msgstr ""
+
+#: inc/theme-options/custom-controls/background-image-control.php:260
+msgid "Contain"
+msgstr ""
+
+#: inc/theme-options/options/footer-settings.php:18
+#: inc/theme-options/options/header-settings.php:64
+msgid "Content"
+msgstr ""
+
+#: inc/theme-options/options/color-settings.php:26
+msgid "Content Color"
+msgstr ""
+
+#: inc/theme-options/options/color-settings.php:59
+msgid "Content Link Color"
+msgstr ""
+
+#: inc/theme-options/options/color-settings.php:70
+msgid "Content Link Hover Color"
+msgstr ""
+
+#: inc/theme-options/options/color-settings.php:48
+msgid "Content Text Color"
+msgstr ""
+
+#: inc/theme-options/options/footer-settings.php:142
+msgid "Copyright Text"
+msgstr ""
+
+#: woocommerce/cart/cart.php:161
+msgid "Coupon Code"
+msgstr ""
+
+#: woocommerce/cart/cart.php:161
+msgid "Coupon code"
+msgstr ""
+
+#: inc/theme-options/custom-controls/background-image-control.php:259
+msgid "Cover"
+msgstr ""
+
+#: inc/theme-options/custom-controls/graident-control.php:64
+msgid "Custom Angle Spread"
+msgstr ""
+
+#: inc/theme-options/options/footer-settings.php:143
+msgid "Custom HTMl and Shortcodes Supported"
+msgstr ""
+
+#: inc/breadcrumbs.php:549 inc/breadcrumbs.php:975
+msgctxt "daily archives date format"
+msgid "j"
+msgstr ""
+
+#: inc/theme-options/options/header-settings.php:137
+msgid "Date"
+msgstr ""
+
+#: inc/theme-options/options/header-settings.php:156
+#: inc/theme-options/options/header-settings.php:175
+msgid "Date & Time"
+msgstr ""
+
+#: inc/theme-options/custom-controls/background-image-control.php:258
+msgid "Default"
+msgstr ""
+
+#: inc/theme-options/custom-controls/graident-control.php:71
+msgid "Define Custom Angle"
+msgstr ""
+
+#: inc/theme-options/custom-controls/graident-control.php:43
+msgid "Define Gradient Colors"
+msgstr ""
+
+#: inc/theme-options/custom-controls/graident-control.php:45
+msgid "Define Gradient Direction"
+msgstr ""
+
+#: inc/theme-options/custom-controls/repeater-control.php:297
+msgid "Delete"
+msgstr ""
+
+#: inc/theme-options/options/blog-settings.php:97
+#: inc/theme-options/options/blog-settings.php:182
+msgid "Display Author"
+msgstr ""
+
+#: inc/theme-options/options/blog-settings.php:172
+msgid "Display Categories"
+msgstr ""
+
+#: inc/theme-options/options/blog-settings.php:117
+msgid "Display Category"
+msgstr ""
+
+#: inc/theme-options/options/blog-settings.php:107
+msgid "Display Comment"
+msgstr ""
+
+#: inc/theme-options/options/blog-settings.php:202
+msgid "Display Comment Count"
+msgstr ""
+
+#: inc/theme-options/options/header-settings.php:132
+msgid "Display in Center Header"
+msgstr ""
+
+#: inc/theme-options/options/header-settings.php:151
+msgid "Display in Left Header"
+msgstr ""
+
+#: inc/theme-options/options/header-settings.php:170
+msgid "Display in Right Header"
+msgstr ""
+
+#: inc/theme-options/options/header-settings.php:104
+msgid "Display Options"
+msgstr ""
+
+#: inc/theme-options/options/blog-settings.php:87
+#: inc/theme-options/options/blog-settings.php:192
+msgid "Display Posted Date"
+msgstr ""
+
+#: inc/theme-options/options/header-settings.php:589
+msgid "Display Site Tagline"
+msgstr ""
+
+#: inc/theme-options/options/header-settings.php:577
+msgid "Display Site Title"
+msgstr ""
+
+#: inc/theme-options/options/blog-settings.php:127
+msgid "Display Tag"
+msgstr ""
+
+#: inc/theme-options/options/blog-settings.php:212
+msgid "Display Tags"
+msgstr ""
+
+#: inc/theme-options/theme-options.php:84
+msgid "Documentation"
+msgstr ""
+
+#. %s: Name of current post. Only visible to screen readers
+#: template-parts/content-page.php:30
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: inc/theme-options/custom-controls/repeater-control.php:229
+msgid "Elegant Icon"
+msgstr ""
+
+#: inc/theme-options/options/social-icons.php:53
+msgid "Enable"
+msgstr ""
+
+#: inc/theme-options/options/general-settings.php:97
+msgid "Enable Preloader"
+msgstr ""
+
+#: inc/theme-options/options/blog-settings.php:50
+msgid "Excerpt"
+msgstr ""
+
+#: inc/theme-options/options/blog-settings.php:72
+msgid "Excerpt Length(Letters)"
+msgstr ""
+
+#: inc/theme-options/options/blog-settings.php:33
+msgid "Exclude Category"
+msgstr ""
+
+#: inc/theme-options/custom-controls/background-image-control.php:274
+msgid "Fixed"
+msgstr ""
+
+#: inc/theme-options/custom-controls/typography/typography-control-class.php:52
+msgid "Font Color"
+msgstr ""
+
+#: inc/theme-options/custom-controls/typography/typography-control-class.php:45
+msgid "Font Family"
+msgstr ""
+
+#: inc/theme-options/custom-controls/typography/typography-control-class.php:49
+msgid "Font Size"
+msgstr ""
+
+#: inc/theme-options/custom-controls/typography/typography-control-class.php:46
+msgid "Font Weight/Style"
+msgstr ""
+
+#: functions.php:135
+msgid "Footer 1"
+msgstr ""
+
+#: functions.php:145
+msgid "Footer 2"
+msgstr ""
+
+#: functions.php:155
+msgid "Footer 3"
+msgstr ""
+
+#: functions.php:165
+msgid "Footer 4"
+msgstr ""
+
+#: inc/theme-options/options/footer-settings.php:122
+msgid "Footer Anchor Color"
+msgstr ""
+
+#: inc/theme-options/options/footer-settings.php:99
+msgid "Footer Border Color"
+msgstr ""
+
+#: inc/theme-options/options/footer-settings.php:58
+msgid "Footer Columns"
+msgstr ""
+
+#: inc/theme-options/options/footer-settings.php:5
+msgid "Footer Settings"
+msgstr ""
+
+#: inc/theme-options/options/footer-settings.php:111
+msgid "Footer Text Color"
+msgstr ""
+
+#: inc/theme-options/options/footer-settings.php:89
+msgid "Footer Title Color"
+msgstr ""
+
+#: inc/theme-options/custom-controls/graident-control.php:44
+msgid ""
+"For a gradient, at least one starting and one end color should be defined."
+msgstr ""
+
+#: inc/theme-options/options/blog-settings.php:49
+msgid "Full Content"
+msgstr ""
+
+#: inc/theme-options/options/general-settings.php:5
+msgid "General Settings"
+msgstr ""
+
+#: inc/theme-options/custom-controls/graident-control.php:46
+msgid "Gradient Preview"
+msgstr ""
+
+#: inc/theme-options/options/header-settings.php:458
+msgid "Header Contents"
+msgstr ""
+
+#: inc/theme-options/options/header-settings.php:16
+#: inc/theme-options/options/header-settings.php:27
+msgid "Header Layouts"
+msgstr ""
+
+#: inc/theme-options/options/header-settings.php:5
+msgid "Header Settings"
+msgstr ""
+
+#: inc/theme-options/options/typography.php:118
+msgid "Header Typography"
+msgstr ""
+
+#: inc/theme-options/options/typography.php:78
+msgid "Headers(H1, H2, H3, H4, H5, H6)"
+msgstr ""
+
+#: inc/theme-options/options/color-settings.php:37
+msgid "Heading Color"
+msgstr ""
+
+#: inc/theme-options/options/header-settings.php:269
+msgid "Height"
+msgstr ""
+
+#: inc/theme-options/custom-controls/typography/typography-control-class.php:252
+msgid "Hex Value"
+msgstr ""
+
+#: inc/breadcrumbs.php:143
+msgid "Home"
+msgstr ""
+
+#: 404.php:17
+msgid "Homepage"
+msgstr ""
+
+#: inc/theme-options/custom-controls/graident-control.php:63
+msgid "Horizontal Spread (Left To Right)"
+msgstr ""
+
+#: inc/breadcrumbs.php:538
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr ""
+
+#: inc/theme-options/custom-controls/color-tab-control.php:137
+#: inc/theme-options/options/header-settings.php:549
+msgid "Hover"
+msgstr ""
+
+#: inc/theme-options/options/header-settings.php:136
+#: inc/theme-options/options/header-settings.php:155
+#: inc/theme-options/options/header-settings.php:174
+msgid "HTML Text"
+msgstr ""
+
+#: inc/theme-options/options/header-settings.php:233
+msgid "Html Text"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://wpcirqle.com/"
+msgstr ""
+
+#. URI of the theme
+msgid "https://wpcirqle.com/theme/bigmart/"
+msgstr ""
+
+#: inc/theme-options/custom-controls/repeater-control.php:221
+msgid "Ico Font"
+msgstr ""
+
+#: inc/theme-options/theme-options.php:79
+#: inc/theme-options/options/typography.php:201
+msgid "Import"
+msgstr ""
+
+#: inc/theme-options/theme-options.php:77
+msgid "Import Demo Content"
+msgstr ""
+
+#: inc/theme-options/options/general-settings.php:98
+msgid ""
+"Is a simple logo animations to keep visitors entertained while site is "
+"loading."
+msgstr ""
+
+#: template-parts/content-none.php:41
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: inc/theme-options/custom-controls/cat-dropdown-control.php:30
+#: inc/theme-options/custom-controls/repeater-control.php:123
+msgid "Latest Posts"
+msgstr ""
+
+#: inc/theme-options/options/blog-settings.php:23
+#: inc/theme-options/options/blog-settings.php:160
+msgid "Layout 1"
+msgstr ""
+
+#: inc/theme-options/options/blog-settings.php:24
+#: inc/theme-options/options/blog-settings.php:161
+msgid "Layout 2"
+msgstr ""
+
+#: inc/theme-options/options/header-settings.php:306
+msgid "Leave Empty to Hide Border"
+msgstr ""
+
+#: inc/theme-options/custom-controls/dimensions-control.php:180
+#: inc/theme-options/custom-controls/dimensions-control.php:184
+#: inc/theme-options/custom-controls/dimensions-control.php:188
+#: inc/theme-options/options/header-settings.php:108
+msgid "Left"
+msgstr ""
+
+#: inc/theme-options/options/header-settings.php:110
+msgid "Left & Right"
+msgstr ""
+
+#: inc/theme-options/custom-controls/background-image-control.php:265
+msgid "Left Bottom"
+msgstr ""
+
+#: inc/theme-options/custom-controls/background-image-control.php:264
+msgid "Left Center"
+msgstr ""
+
+#: inc/theme-options/custom-controls/background-image-control.php:263
+msgid "Left Top"
+msgstr ""
+
+#: inc/theme-options/custom-controls/typography/typography-control-class.php:51
+msgid "Letter Spacing"
+msgstr ""
+
+#: inc/theme-options/custom-controls/typography/typography-control-class.php:50
+msgid "Line Height"
+msgstr ""
+
+#: inc/theme-options/custom-controls/typography/typography-control-class.php:360
+msgid "Line-through"
+msgstr ""
+
+#: inc/theme-options/custom-controls/dimensions-control.php:47
+msgid "Link values together"
+msgstr ""
+
+#: inc/theme-options/options/header-settings.php:608
+msgid "Logo Width(px)"
+msgstr ""
+
+#: inc/theme-options/custom-controls/typography/typography-control-class.php:376
+msgid "Lowercase"
+msgstr ""
+
+#: inc/hooks/sections/header-actions.php:504
+msgid "Main Menu"
+msgstr ""
+
+#: inc/theme-options/custom-controls/repeater-control.php:225
+msgid "Material Icon"
+msgstr ""
+
+#: inc/template-functions.php:166
+#: inc/theme-options/options/header-settings.php:138
+#: inc/theme-options/options/header-settings.php:157
+#: inc/theme-options/options/header-settings.php:176
+#: inc/theme-options/options/typography.php:138
+msgid "Menu"
+msgstr ""
+
+#: inc/theme-options/options/typography.php:177
+msgid "Menu Typography"
+msgstr ""
+
+#: inc/theme-options/options/header-settings.php:334
+msgid "Middle Header"
+msgstr ""
+
+#: inc/theme-options/options/header-settings.php:388
+msgid "Middle Header Spacing(px)"
+msgstr ""
+
+#. Minute archive title. %s is the minute time format.
+#: inc/breadcrumbs.php:153
+#, php-format
+msgid "Minute %s"
+msgstr ""
+
+#: inc/breadcrumbs.php:518
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr ""
+
+#: inc/breadcrumbs.php:528
+msgctxt "minute archives time format"
+msgid "i"
+msgstr ""
+
+#: inc/breadcrumbs.php:548 inc/breadcrumbs.php:604 inc/breadcrumbs.php:971
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr ""
+
+#: inc/theme-options/options/typography.php:198
+msgid "More advanced Typography Settings for individual sections and elements"
+msgstr ""
+
+#: inc/theme-options/options/header-settings.php:45
+msgid "More Header layouts and Customization Options"
+msgstr ""
+
+#: inc/hooks/sections/footer-actions.php:64
+msgid "WP Cirqle"
+msgstr ""
+
+#: single.php:23
+msgid "Next Post"
+msgstr ""
+
+#: inc/hooks/sections/blog-actions.php:223
+#: inc/hooks/sections/header-actions.php:232
+msgid "No Comments"
+msgstr ""
+
+#: inc/theme-options/custom-controls/repeater-control.php:107
+msgid "No image selected"
+msgstr ""
+
+#: inc/theme-options/custom-controls/background-image-control.php:252
+msgid "No Repeat"
+msgstr ""
+
+#: inc/theme-options/options/header-settings.php:106
+#: inc/theme-options/custom-controls/typography/typography-control-class.php:358
+#: inc/theme-options/custom-controls/typography/typography-control-class.php:374
+msgid "None"
+msgstr ""
+
+#: inc/theme-options/custom-controls/color-tab-control.php:136
+#: inc/theme-options/custom-controls/typography/typography-control-class.php:343
+msgid "Normal"
+msgstr ""
+
+#: template-parts/content-none.php:13
+msgid "Nothing Found"
+msgstr ""
+
+#. 1: title.
+#: comments.php:35
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#: inc/theme-options/custom-controls/background-image-control.php:236
+msgid "Overlay Color"
+msgstr ""
+
+#: inc/theme-options/custom-controls/typography/typography-control-class.php:361
+msgid "Overline"
+msgstr ""
+
+#. %s is the page number.
+#: inc/breadcrumbs.php:149
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: inc/theme-options/options/header-settings.php:655
+#: inc/theme-options/options/header-settings.php:665
+msgid "Page Banner"
+msgstr ""
+
+#: inc/theme-options/options/header-settings.php:723
+msgid "Page Banner Image"
+msgstr ""
+
+#: inc/theme-options/options/header-settings.php:756
+msgid "Page Banner Padding (Top/Bottom)"
+msgstr ""
+
+#: inc/theme-options/options/header-settings.php:675
+msgid "Page Banner Style"
+msgstr ""
+
+#: inc/theme-options/options/sidebar-settings.php:16
+msgid "Page Layout"
+msgstr ""
+
+#: 404.php:15
+msgid "Page Not Found"
+msgstr ""
+
+#: inc/theme-options/options/header-settings.php:743
+msgid "Page Title Color"
+msgstr ""
+
+#: template-parts/content-page.php:17
+msgid "Pages:"
+msgstr ""
+
+#: inc/theme-options/options/footer-settings.php:153
+msgid "Payment Logos"
+msgstr ""
+
+#: inc/theme-options/custom-controls/background-image-control.php:233
+msgid "Position"
+msgstr ""
+
+#: inc/theme-options/options/sidebar-settings.php:34
+msgid "Post Layout"
+msgstr ""
+
+#: inc/theme-options/options/blog-settings.php:36
+msgid "Post with selected category will not display in the blog page"
+msgstr ""
+
+#: single.php:22
+msgid "Previous Post"
+msgstr ""
+
+#: woocommerce/cart/cart.php:30 woocommerce/cart/cart.php:104
+msgid "Price"
+msgstr ""
+
+#: functions.php:52
+msgid "Primary Menu"
+msgstr ""
+
+#: woocommerce/cart/cart.php:29 woocommerce/cart/cart.php:85
+msgid "Product"
+msgstr ""
+
+#: woocommerce/cart/cart.php:31 woocommerce/cart/cart.php:110
+msgid "Quantity"
+msgstr ""
+
+#: inc/hooks/sections/blog-actions.php:107
+#: inc/theme-options/options/blog-settings.php:55
+msgid "Read More"
+msgstr ""
+
+#: inc/theme-options/options/blog-settings.php:62
+msgid "Read More Text"
+msgstr ""
+
+#. 1: link to WP admin new post page.
+#: template-parts/content-none.php:23
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: inc/theme-options/custom-controls/background-image-control.php:217
+#: inc/theme-options/custom-controls/repeater-control.php:113
+msgid "Remove"
+msgstr ""
+
+#: woocommerce/cart/cart.php:142
+msgid "Remove this item"
+msgstr ""
+
+#: inc/theme-options/custom-controls/background-image-control.php:231
+msgid "Repeat"
+msgstr ""
+
+#: inc/theme-options/custom-controls/dimensions-control.php:178
+#: inc/theme-options/custom-controls/dimensions-control.php:182
+#: inc/theme-options/custom-controls/dimensions-control.php:186
+#: inc/theme-options/options/header-settings.php:109
+msgid "Right"
+msgstr ""
+
+#: inc/theme-options/custom-controls/background-image-control.php:268
+msgid "Right Bottom"
+msgstr ""
+
+#: inc/theme-options/custom-controls/background-image-control.php:267
+msgid "Right Center"
+msgstr ""
+
+#: inc/theme-options/custom-controls/background-image-control.php:266
+msgid "Right Top"
+msgstr ""
+
+#: inc/woocommerce.php:357
+msgid "Sale"
+msgstr ""
+
+#: inc/theme-options/custom-controls/background-image-control.php:275
+msgid "Scroll"
+msgstr ""
+
+#: inc/woocommerce.php:253 inc/woocommerce.php:284
+msgid "Search for:"
+msgstr ""
+
+#: inc/theme-options/options/sidebar-settings.php:88
+msgid "Search Page Layout"
+msgstr ""
+
+#: inc/hooks/sections/header-actions.php:289
+msgid "Search Result for: "
+msgstr ""
+
+#. %s is the search query.
+#: inc/breadcrumbs.php:147
+#, php-format
+msgid "Search results for: %s"
+msgstr ""
+
+#: inc/woocommerce.php:253 inc/woocommerce.php:284
+msgid "Search..."
+msgstr ""
+
+#: meta-box-class/meta-box-class.php:855
+msgid "Select ..."
+msgstr ""
+
+#: inc/theme-options/options/social-icons.php:43
+msgid "Select Icon"
+msgstr ""
+
+#: inc/theme-options/custom-controls/background-image-control.php:216
+#: inc/theme-options/custom-controls/repeater-control.php:114
+msgid "Select Image"
+msgstr ""
+
+#: inc/theme-options/options/header-settings.php:208
+msgid "Select Menu"
+msgstr ""
+
+#: inc/theme-options/options/header-settings.php:533
+msgid "Select Toggle Menu"
+msgstr ""
+
+#: inc/theme-options/options/header-settings.php:221
+msgid "Select Widget"
+msgstr ""
+
+#: inc/theme-options/options/sidebar-settings.php:106
+msgid "Shop Page Layout(WooCommerce)"
+msgstr ""
+
+#: functions.php:125
+msgid "Shop Sidebar"
+msgstr ""
+
+#: inc/theme-options/options/header-settings.php:469
+msgid "Show Category Search"
+msgstr ""
+
+#: inc/theme-options/options/header-settings.php:479
+msgid "Show Mini Cart"
+msgstr ""
+
+#: inc/theme-options/options/header-settings.php:489
+msgid "Show Toggle Menu"
+msgstr ""
+
+#: inc/theme-options/options/header-settings.php:546
+msgid "Show Toggle Menu Dropdown on"
+msgstr ""
+
+#: functions.php:115
+msgid "Sidebar"
+msgstr ""
+
+#: inc/metabox.php:15
+msgid "Sidebar Layout"
+msgstr ""
+
+#: inc/theme-options/options/sidebar-settings.php:5
+msgid "Sidebar Settings"
+msgstr ""
+
+#: inc/theme-options/options/general-settings.php:69
+msgid "Sidebar Width (%)"
+msgstr ""
+
+#: inc/theme-options/options/blog-settings.php:156
+msgid "Single Post Layout"
+msgstr ""
+
+#: inc/theme-options/options/blog-settings.php:145
+msgid "Single Post Settings"
+msgstr ""
+
+#: inc/theme-options/options/header-settings.php:638
+msgid "Site Tagline Color"
+msgstr ""
+
+#: inc/theme-options/options/header-settings.php:628
+msgid "Site Title Color"
+msgstr ""
+
+#: inc/theme-options/custom-controls/background-image-control.php:232
+msgid "Size"
+msgstr ""
+
+#: header.php:24
+msgid "Skip to content"
+msgstr ""
+
+#: inc/theme-options/options/header-settings.php:134
+#: inc/theme-options/options/header-settings.php:153
+#: inc/theme-options/options/header-settings.php:172
+#: inc/theme-options/options/header-settings.php:243
+#: inc/theme-options/options/social-icons.php:4
+msgid "Social Icons"
+msgstr ""
+
+#: inc/theme-options/options/social-icons.php:38
+msgid "Social Links"
+msgstr ""
+
+#: template-parts/content-none.php:34
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: inc/theme-options/options/footer-settings.php:30
+#: inc/theme-options/options/header-settings.php:84
+msgid "Style"
+msgstr ""
+
+#: woocommerce/cart/cart.php:32 woocommerce/cart/cart.php:132
+msgid "Subtotal"
+msgstr ""
+
+#: inc/theme-options/options/header-settings.php:318
+msgid "Text Color"
+msgstr ""
+
+#: inc/theme-options/custom-controls/typography/typography-control-class.php:48
+msgid "Text Decoration"
+msgstr ""
+
+#: inc/theme-options/custom-controls/typography/typography-control-class.php:47
+msgid "Text Transform"
+msgstr ""
+
+#: 404.php:16
+msgid ""
+"The page you are looking for might have been removed, had it's name changed "
+"or is temporarily unavailable."
+msgstr ""
+
+#: inc/theme-options/options/color-settings.php:16
+msgid "Theme Primary Color"
+msgstr ""
+
+#: inc/theme-options/options/blog-settings.php:157
+msgid "This option can be overwritten in single page settings."
+msgstr ""
+
+#: inc/theme-options/options/color-settings.php:27
+msgid ""
+"This settings apply only in the single posts (i.e. page and post detail "
+"pages only)"
+msgstr ""
+
+#: inc/theme-options/custom-controls/background-image-control.php:253
+msgid "Tile"
+msgstr ""
+
+#: inc/theme-options/custom-controls/background-image-control.php:254
+msgid "Tile Horizontally"
+msgstr ""
+
+#: inc/theme-options/custom-controls/background-image-control.php:255
+msgid "Tile Vertically"
+msgstr ""
+
+#: inc/theme-options/options/header-settings.php:568
+msgid "Title & Logo"
+msgstr ""
+
+#: inc/theme-options/options/header-settings.php:521
+msgid "Toggle Menu Label"
+msgstr ""
+
+#: inc/theme-options/custom-controls/dimensions-control.php:177
+#: inc/theme-options/custom-controls/dimensions-control.php:181
+#: inc/theme-options/custom-controls/dimensions-control.php:185
+msgid "Top"
+msgstr ""
+
+#: inc/theme-options/options/footer-settings.php:48
+msgid "Top Footer"
+msgstr ""
+
+#: inc/theme-options/options/header-settings.php:50
+msgid "Top Header"
+msgstr ""
+
+#: inc/theme-options/options/header-settings.php:196
+msgid "Top Header Contents"
+msgstr ""
+
+#: 404.php:16
+msgid "Try going to homepage and look for something else ?"
+msgstr ""
+
+#: inc/theme-options/custom-controls/icon-selector-control.php:37
+#: inc/theme-options/custom-controls/repeater-control.php:233
+msgid "Type to filter"
+msgstr ""
+
+#: inc/theme-options/options/typography.php:6
+msgid "Typography Settings"
+msgstr ""
+
+#: inc/theme-options/custom-controls/typography/typography-control-class.php:359
+msgid "Underline"
+msgstr ""
+
+#: woocommerce/cart/cart.php:166
+msgid "Update Cart"
+msgstr ""
+
+#: inc/theme-options/theme-options.php:72
+msgid "Upgrade to Pro"
+msgstr ""
+
+#: inc/theme-options/custom-controls/typography/typography-control-class.php:375
+msgid "Uppercase"
+msgstr ""
+
+#: inc/theme-options/custom-controls/graident-control.php:62
+msgid "Vertical Spread (Top to Bottom)"
+msgstr ""
+
+#: inc/theme-options/theme-options.php:86
+msgid "View"
+msgstr ""
+
+#: inc/woocommerce.php:193
+msgid "View your shopping cart"
+msgstr ""
+
+#: inc/theme-options/options/general-settings.php:54
+msgid "Website Container Width"
+msgstr ""
+
+#: inc/theme-options/options/general-settings.php:40
+msgid "Website Layout"
+msgstr ""
+
+#. Weekly archive title. %s is the week date format.
+#: inc/breadcrumbs.php:155
+#, php-format
+msgid "Week %s"
+msgstr ""
+
+#: inc/breadcrumbs.php:577
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr ""
+
+#: inc/template-functions.php:135
+#: inc/theme-options/options/header-settings.php:227
+msgid "Welcome To Bigmart"
+msgstr ""
+
+#: inc/theme-options/options/general-settings.php:42
+msgid "Wide"
+msgstr ""
+
+#: inc/theme-options/options/header-settings.php:135
+#: inc/theme-options/options/header-settings.php:154
+#: inc/theme-options/options/header-settings.php:173
+msgid "Widget"
+msgstr ""
+
+#: inc/hooks/sections/footer-actions.php:64
+msgid "WordPress Theme by "
+msgstr ""
+
+#. Author of the theme
+msgid "WP Cirqle"
+msgstr ""
+
+#: inc/breadcrumbs.php:547 inc/breadcrumbs.php:576 inc/breadcrumbs.php:603
+#: inc/breadcrumbs.php:630 inc/breadcrumbs.php:967
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:25
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:49
+msgid "Your order"
+msgstr ""

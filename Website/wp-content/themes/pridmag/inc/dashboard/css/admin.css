@@ -1,0 +1,41 @@
+.th-required-box {
+    padding: 20px;
+    background: #fff;
+    border-left: 4px solid #d54e21;
+    margin: 50px 0;
+}
+
+h3.th-reqbox-heading {
+    margin-top: 0;
+}
+
+.th-dashboard-wrapper {
+    position: relative;
+    overflow: hidden;
+    margin-top: 40px;
+}
+
+.th-dashboard-box {
+    width: 48.048780487804878%;
+    margin-top: 0;
+    margin-right: 3.902439024390244%;
+    margin-left: 0;
+    margin-bottom: 40px;
+    display: inline-block;
+    vertical-align: top;
+    position: relative;
+    float: left;
+    background: #fff;
+}
+
+.th-dashboard-box:nth-of-type(2n) {
+    margin-right: 0;
+}
+
+.th-dashboard-box h3 {
+    margin-top: 0;
+}
+
+.th-dashboard-box-inner {
+    padding: 35px;
+}
